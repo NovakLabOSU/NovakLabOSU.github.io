@@ -1,0 +1,3956 @@
+<!DOCTYPE html><html lang="en-us" >
+
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  
+  
+  
+    <meta name="generator" content="Wowchemy 5.1.0 for Hugo" />
+  
+
+  
+
+  
+  
+  
+  
+  
+    
+    
+    
+  
+  
+
+  <meta name="author" content="NovakLab" />
+
+  
+  
+  
+    
+  
+  <meta name="description" content="Prediction of population, community and network dynamics" />
+
+  
+  <link rel="alternate" hreflang="en-us" href="https://novaklabosu.github.io/project/dynamics/" />
+
+  
+
+
+
+
+
+
+
+  
+
+
+
+
+  
+  
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  
+
+  
+  
+  
+    <meta name="theme-color" content="#1565c0" />
+  
+
+  
+  
+    
+    <script src="/js/mathjax-config.js"></script>
+  
+
+  
+  
+  
+  
+    
+    
+      <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/academicons/1.9.0/css/academicons.min.css" integrity="sha512-W4yqoT1+8NLkinBLBZko+dFB2ZbHsYLDdr50VElllRcNt2Q4/GSs6u71UHKxB7S6JEMCp5Ve4xjh3eGQl/HRvg==" crossorigin="anonymous">
+    
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.14.0/css/all.min.css" integrity="sha256-FMvZuGapsJLjouA6k7Eo2lusoAX9i0ShlWFG6qt7SLc=" crossorigin="anonymous">
+
+    
+    
+
+    
+    
+    
+      
+    
+    
+      
+      
+        
+          <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/10.2.0/styles/github.min.css" crossorigin="anonymous" title="hl-light" media="print" onload="this.media='all'">
+          <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/10.2.0/styles/dracula.min.css" crossorigin="anonymous" title="hl-dark" media="print" onload="this.media='all'" disabled>
+        
+      
+    
+
+    
+    
+    
+
+    
+
+    
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+        <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml.js" integrity="" crossorigin="anonymous" async></script>
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+  
+
+  
+  
+  
+    
+      
+      <link rel="preload" as="style" href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&family=Roboto+Mono&family=Roboto:wght@400;700&display=swap">
+      <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&family=Roboto+Mono&family=Roboto:wght@400;700&display=swap" media="print" onload="this.media='all'">
+    
+  
+
+  
+  
+  
+  
+  
+  <link rel="stylesheet" href="/css/wowchemy.7e30e35693ce5241bf21fbf454066bdd.css" />
+
+  
+
+
+
+  
+
+  
+
+  
+
+
+
+
+  
+  
+  
+
+  
+
+  
+    <link rel="manifest" href="/index.webmanifest" />
+  
+
+  <link rel="icon" type="image/png" href="/media/icon_hu0409958f157fc50d4e355b357a277bb5_195869_32x32_fill_lanczos_center_2.png" />
+  <link rel="apple-touch-icon" type="image/png" href="/media/icon_hu0409958f157fc50d4e355b357a277bb5_195869_180x180_fill_lanczos_center_2.png" />
+
+  <link rel="canonical" href="https://novaklabosu.github.io/project/dynamics/" />
+
+  
+  
+  
+  
+  
+  
+  
+  
+    
+    
+  
+  
+  <meta property="twitter:card" content="summary" />
+  
+  <meta property="og:site_name" content="NovakLab" />
+  <meta property="og:url" content="https://novaklabosu.github.io/project/dynamics/" />
+  <meta property="og:title" content="Dynamics | NovakLab" />
+  <meta property="og:description" content="Prediction of population, community and network dynamics" /><meta property="og:image" content="https://novaklabosu.github.io/media/icon_hu0409958f157fc50d4e355b357a277bb5_195869_512x512_fill_lanczos_center_2.png" />
+    <meta property="twitter:image" content="https://novaklabosu.github.io/media/icon_hu0409958f157fc50d4e355b357a277bb5_195869_512x512_fill_lanczos_center_2.png" /><meta property="og:locale" content="en-us" />
+  
+    
+      <meta
+        property="article:published_time"
+        content="2021-04-01T00:00:00&#43;00:00"
+      />
+    
+    <meta property="article:modified_time" content="2021-04-01T00:00:00&#43;00:00">
+  
+
+  
+
+
+    
+
+
+
+
+
+
+
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://novaklabosu.github.io/project/dynamics/"
+  },
+  "headline": "Dynamics",
+  
+  "datePublished": "2021-04-01T00:00:00Z",
+  "dateModified": "2021-04-01T00:00:00Z",
+  
+  "author": {
+    "@type": "Person",
+    "name": "NovakLab"
+  },
+  
+  "publisher": {
+    "@type": "Organization",
+    "name": "NovakLab",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://novaklabosu.github.io/media/icon_hu0409958f157fc50d4e355b357a277bb5_195869_192x192_fill_lanczos_center_2.png"
+    }
+  },
+  "description": "Prediction of population, community and network dynamics"
+}
+</script>
+
+  
+
+  
+
+  
+
+  
+
+
+
+
+
+  <title>Dynamics | NovakLab</title>
+</head>
+
+
+<body id="top" data-spy="scroll" data-offset="70" data-target="#TableOfContents" class="page-wrapper   " data-wc-page-id="da500da62ee07af8e04f74064ea6a884" >
+
+  
+  
+  
+  
+  
+  
+  
+  
+  <script src="/js/wowchemy-init.min.226a9011996d125bf3fe4a5f22353a49.js"></script>
+
+  
+
+
+<aside class="search-modal" id="search">
+  <div class="container">
+    <section class="search-header">
+
+      <div class="row no-gutters justify-content-between mb-3">
+        <div class="col-6">
+          <h1>Search</h1>
+        </div>
+        <div class="col-6 col-search-close">
+          <a class="js-search" href="#" aria-label="Close"><i class="fas fa-times-circle text-muted" aria-hidden="true"></i></a>
+        </div>
+      </div>
+
+      <div id="search-box">
+        
+        <input name="q" id="search-query" placeholder="Search..." autocapitalize="off"
+        autocomplete="off" autocorrect="off" spellcheck="false" type="search" class="form-control"
+        aria-label="Search...">
+        
+      </div>
+
+      
+      
+
+      
+
+    </section>
+    <section class="section-search-results">
+
+      <div id="search-hits">
+        
+      </div>
+
+    </section>
+  </div>
+</aside>
+
+
+
+  <div class="page-header">
+    
+
+
+
+
+
+
+
+
+
+
+
+
+<nav class="navbar navbar-expand-lg navbar-light compensate-for-scrollbar" id="navbar-main">
+  <div class="container-xl">
+
+    
+    <div class="d-none d-lg-inline-flex">
+      <a class="navbar-brand" href="/">NovakLab</a>
+    </div>
+    
+
+    
+    <button type="button" class="navbar-toggler" data-toggle="collapse"
+            data-target="#navbar-content" aria-controls="navbar" aria-expanded="false" aria-label="Toggle navigation">
+    <span><i class="fas fa-bars"></i></span>
+    </button>
+    
+
+    
+    <div class="navbar-brand-mobile-wrapper d-inline-flex d-lg-none">
+      <a class="navbar-brand" href="/">NovakLab</a>
+    </div>
+    
+
+    
+    
+    <div class="navbar-collapse main-menu-item collapse justify-content-center" id="navbar-content">
+
+      
+      <ul class="navbar-nav d-md-inline-flex">
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+
+        
+        
+        
+        
+
+        
+          
+            
+            
+          
+          
+            
+            
+            
+              
+            
+            
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/#about"><span>Home</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+
+        
+        
+        
+        
+
+        
+          
+            
+            
+          
+          
+            
+            
+            
+              
+            
+            
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/#people"><span>People</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+
+        
+        
+        
+        
+
+        
+          
+            
+            
+          
+          
+            
+            
+            
+              
+            
+            
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/#projects"><span>Research</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+
+        
+        
+        
+        
+
+        
+          
+            
+            
+          
+          
+            
+            
+            
+              
+            
+            
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/#publications"><span>Publications</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+
+        
+        
+        
+        
+
+        
+          
+            
+            
+          
+          
+            
+            
+            
+              
+            
+            
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/#courses"><span>Teaching</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+
+        
+        
+        
+        
+
+        
+          
+            
+            
+          
+          
+            
+            
+            
+              
+            
+            
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/#posts"><span>News</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+
+        
+        
+        
+        
+
+        
+          
+            
+            
+          
+          
+            
+            
+            
+              
+            
+            
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/#alumni"><span>Alumni</span></a>
+        </li>
+
+        
+        
+
+      
+
+        
+      </ul>
+    </div>
+
+    <ul class="nav-icons navbar-nav flex-row ml-auto d-flex pl-md-2">
+
+      
+      
+        
+      
+
+      
+      
+      <li class="nav-item">
+        <a class="nav-link js-search" href="#" aria-label="Search"><i class="fas fa-search" aria-hidden="true"></i></a>
+      </li>
+      
+
+      
+      
+      <li class="nav-item dropdown theme-dropdown">
+        <a href="#" class="nav-link" data-toggle="dropdown" aria-haspopup="true" aria-label="Display preferences">
+          <i class="fas fa-moon" aria-hidden="true"></i>
+        </a>
+        <div class="dropdown-menu">
+          <a href="#" class="dropdown-item js-set-theme-light">
+            <span>Light</span>
+          </a>
+          <a href="#" class="dropdown-item js-set-theme-dark">
+            <span>Dark</span>
+          </a>
+          <a href="#" class="dropdown-item js-set-theme-auto">
+            <span>Automatic</span>
+          </a>
+        </div>
+      </li>
+      
+
+      
+      
+
+    </ul>
+
+  </div>
+</nav>
+
+
+  </div>
+
+  <div class="page-body">
+    <article class="article article-project">
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+  
+  
+  
+<div class="article-container pt-3">
+  <h1>Dynamics</h1>
+
+  
+
+  
+    
+
+
+<div class="article-metadata">
+
+  
+  
+
+  
+  <span class="article-date">
+    
+    
+      
+    
+    Apr 1, 2021
+  </span>
+  
+
+  
+
+  
+
+  
+  
+  
+  
+  
+  
+
+  
+  
+
+</div>
+
+    
+
+
+
+
+
+  
+</div>
+
+
+
+  <div class="article-container">
+
+    <div class="article-style">
+      
+    </div>
+
+    
+
+
+
+
+
+
+
+
+<div class="share-box" aria-hidden="true">
+  <ul class="share">
+    
+  </ul>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+  
+  
+  
+    
+  
+  
+  
+  <div class="media author-card content-widget-hr">
+    
+      
+      <a href="https://novaklabosu.github.io"><img class="avatar mr-3 avatar-circle" src="/authors/admin/avatar_hu9041435e55b0cd3420f67526c07a693f_1679399_270x270_fill_q75_lanczos_center.jpg" alt="NovakLab"></a>
+    
+
+    <div class="media-body">
+      <h5 class="card-title"><a href="https://novaklabosu.github.io">NovakLab</a></h5>
+      
+      
+      <ul class="network-icon" aria-hidden="true">
+  
+    
+    
+    
+      
+    
+    
+    
+    
+    
+    <li>
+      <a href="mailto:mark.novak@oregonstate.edu" >
+        <i class="fas fa-envelope"></i>
+      </a>
+    </li>
+  
+    
+    
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="https://scholar.google.com/citations?user=F2dMyJAAAAAJ&amp;hl=en" target="_blank" rel="noopener">
+        <i class="ai ai-google-scholar"></i>
+      </a>
+    </li>
+  
+    
+    
+    
+      
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="https://github.com/marknovak" target="_blank" rel="noopener">
+        <i class="fab fa-github"></i>
+      </a>
+    </li>
+  
+    
+    
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="https://www.researchgate.net/profile/Mark-Novak" target="_blank" rel="noopener">
+        <i class="ai ai-researchgate"></i>
+      </a>
+    </li>
+  
+</ul>
+
+    </div>
+  </div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+    <div class="project-related-pages content-widget-hr">
+      
+      
+
+      
+      
+      
+
+      
+      
+      
+        <h2>Publications</h2>
+        
+          
+            
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+  
+
+
+<div class="media stream-item">
+  <div class="media-body">
+
+    <div class="section-subheading article-title mb-0 mt-0">
+      <a href="/publication/menge-2019-aa/" >Community Responses to Climate-Related Variability and Disease: The Critical Importance of Long-Term Research</a>
+    </div>
+
+    
+    <a href="/publication/menge-2019-aa/"  class="summary-link">
+      <div class="article-style">
+        A major goal of the Partnership for Interdisciplinary Studies of Coastal Oceans (PISCO) has been to understand the impacts of climate …
+      </div>
+    </a>
+    
+
+    <div class="stream-meta article-metadata">
+
+      
+
+      
+      <div>
+        
+
+  <span >
+      <a href="/authors/menge/">Menge</a></span>, <span >
+      <a href="/authors/caselle/">Caselle</a></span>, <span >
+      <a href="/authors/barth/">Barth</a></span>, <span >
+      <a href="/authors/blanchette/">Blanchette</a></span>, <span >
+      <a href="/authors/carr/">Carr</a></span>, <span >
+      <a href="/authors/chan/">Chan</a></span>, <span >
+      <a href="/authors/gravem/">Gravem</a></span>, <span >
+      <a href="/authors/gouhier/">Gouhier</a></span>, <span >
+      <a href="/authors/lubchenco/">Lubchenco</a></span>, <span >
+      <a href="/authors/mcmanus/">McManus</a></span>, <span >
+      <a href="/authors/milligan/">Milligan</a></span>, <span >
+      <a href="/authors/novak/">Novak</a></span>, <span >
+      <a href="/authors/raimondi/">Raimondi</a></span>, <span >
+      <a href="/authors/washburn/">Washburn</a></span>, <span >
+      <a href="/authors/white/">White</a></span>
+      </div>
+      
+    </div>
+
+    
+    <div class="btn-links">
+      
+
+
+
+
+
+
+
+
+  
+    
+  
+
+
+
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="/pubs/Menge_etal_2019b.pdf" target="_blank" rel="noopener">
+  PDF
+</a>
+
+
+
+<a href="#" class="btn btn-outline-primary btn-page-header btn-sm js-cite-modal"
+        data-filename="/publication/menge-2019-aa/cite.bib">
+  Cite
+</a>
+
+
+
+
+
+  
+  <a class="btn btn-outline-primary btn-page-header btn-sm" href="/project/intertidal/">
+    Project
+  </a>
+  
+
+  
+  <a class="btn btn-outline-primary btn-page-header btn-sm" href="/project/subtidal/">
+    Project
+  </a>
+  
+
+  
+  <a class="btn btn-outline-primary btn-page-header btn-sm" href="/project/dynamics/">
+    Project
+  </a>
+  
+
+
+
+
+
+
+
+
+
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="https://doi.org/https://doi.org/10.5670/oceanog.2019.313" target="_blank" rel="noopener">
+  DOI
+</a>
+
+
+
+    </div>
+    
+
+  </div>
+  <div class="ml-3">
+    
+    
+  </div>
+</div>
+
+          
+        
+          
+            
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+  
+
+
+<div class="media stream-item">
+  <div class="media-body">
+
+    <div class="section-subheading article-title mb-0 mt-0">
+      <a href="/publication/menge-2019-ab/" >Integrating Coastal Oceanic and Benthic Ecological Approaches for Understanding Large-Scale Meta-Ecosystem Dynamics</a>
+    </div>
+
+    
+    <a href="/publication/menge-2019-ab/"  class="summary-link">
+      <div class="article-style">
+        As the reality of climate change became obvious during the late 1900s, the need for understanding ecosystem pattern and dynamics at …
+      </div>
+    </a>
+    
+
+    <div class="stream-meta article-metadata">
+
+      
+
+      
+      <div>
+        
+
+  <span >
+      <a href="/authors/menge/">Menge</a></span>, <span >
+      <a href="/authors/caselle/">Caselle</a></span>, <span >
+      <a href="/authors/milligan/">Milligan</a></span>, <span >
+      <a href="/authors/gravem/">Gravem</a></span>, <span >
+      <a href="/authors/gouhier/">Gouhier</a></span>, <span >
+      <a href="/authors/white/">White</a></span>, <span >
+      <a href="/authors/barth/">Barth</a></span>, <span >
+      <a href="/authors/blanchette/">Blanchette</a></span>, <span >
+      <a href="/authors/carr/">Carr</a></span>, <span >
+      <a href="/authors/chan/">Chan</a></span>, <span >
+      <a href="/authors/lubchenco/">Lubchenco</a></span>, <span >
+      <a href="/authors/mcmanus/">McManus</a></span>, <span >
+      <a href="/authors/novak/">Novak</a></span>, <span >
+      <a href="/authors/raimondi/">Raimondi</a></span>, <span >
+      <a href="/authors/washburn/">Washburn</a></span>
+      </div>
+      
+    </div>
+
+    
+    <div class="btn-links">
+      
+
+
+
+
+
+
+
+
+  
+    
+  
+
+
+
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="/pubs/Menge_etal_2019c.pdf" target="_blank" rel="noopener">
+  PDF
+</a>
+
+
+
+<a href="#" class="btn btn-outline-primary btn-page-header btn-sm js-cite-modal"
+        data-filename="/publication/menge-2019-ab/cite.bib">
+  Cite
+</a>
+
+
+
+
+
+  
+  <a class="btn btn-outline-primary btn-page-header btn-sm" href="/project/intertidal/">
+    Project
+  </a>
+  
+
+  
+  <a class="btn btn-outline-primary btn-page-header btn-sm" href="/project/subtidal/">
+    Project
+  </a>
+  
+
+  
+  <a class="btn btn-outline-primary btn-page-header btn-sm" href="/project/dynamics/">
+    Project
+  </a>
+  
+
+
+
+
+
+
+
+
+
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="https://doi.org/https://doi.org/10.5670/oceanog.2019.309" target="_blank" rel="noopener">
+  DOI
+</a>
+
+
+
+    </div>
+    
+
+  </div>
+  <div class="ml-3">
+    
+    
+  </div>
+</div>
+
+          
+        
+          
+            
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+  
+
+
+<div class="media stream-item">
+  <div class="media-body">
+
+    <div class="section-subheading article-title mb-0 mt-0">
+      <a href="/publication/menge-2019-ac/" >PISCO: Advances Made Through the Formation of a Large-Scale, Long-Term Consortium for Integrated Understanding of Coastal Ecosystem Dynamics</a>
+    </div>
+
+    
+    <a href="/publication/menge-2019-ac/"  class="summary-link">
+      <div class="article-style">
+        To support conservation practices, societal demand for understanding fundamental coastal ocean ecosystem mechanisms has grown in recent …
+      </div>
+    </a>
+    
+
+    <div class="stream-meta article-metadata">
+
+      
+
+      
+      <div>
+        
+
+  <span >
+      <a href="/authors/menge/">Menge</a></span>, <span >
+      <a href="/authors/milligan/">Milligan</a></span>, <span >
+      <a href="/authors/caselle/">Caselle</a></span>, <span >
+      <a href="/authors/barth/">Barth</a></span>, <span >
+      <a href="/authors/blanchette/">Blanchette</a></span>, <span >
+      <a href="/authors/carr/">Carr</a></span>, <span >
+      <a href="/authors/chan/">Chan</a></span>, <span >
+      <a href="/authors/cowen/">Cowen</a></span>, <span >
+      <a href="/authors/denny/">Denny</a></span>, <span >
+      <a href="/authors/gaines/">Gaines</a></span>, <span >
+      <a href="/authors/hofmann/">Hofmann</a></span>, <span >
+      <a href="/authors/kroeker/">Kroeker</a></span>, <span >
+      <a href="/authors/lubchenco/">Lubchenco</a></span>, <span >
+      <a href="/authors/mcmanus/">McManus</a></span>, <span >
+      <a href="/authors/novak/">Novak</a></span>, <span >
+      <a href="/authors/palumbi/">Palumbi</a></span>, <span >
+      <a href="/authors/raimondi/">Raimondi</a></span>, <span >
+      <a href="/authors/somero/">Somero</a></span>, <span >
+      <a href="/authors/warner/">Warner</a></span>, <span >
+      <a href="/authors/washburn/">Washburn</a></span>, <span >
+      <a href="/authors/white/">White</a></span>
+      </div>
+      
+    </div>
+
+    
+    <div class="btn-links">
+      
+
+
+
+
+
+
+
+
+  
+    
+  
+
+
+
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="/pubs/Menge_etal_2019a.pdf" target="_blank" rel="noopener">
+  PDF
+</a>
+
+
+
+<a href="#" class="btn btn-outline-primary btn-page-header btn-sm js-cite-modal"
+        data-filename="/publication/menge-2019-ac/cite.bib">
+  Cite
+</a>
+
+
+
+
+
+  
+  <a class="btn btn-outline-primary btn-page-header btn-sm" href="/project/intertidal/">
+    Project
+  </a>
+  
+
+  
+  <a class="btn btn-outline-primary btn-page-header btn-sm" href="/project/subtidal/">
+    Project
+  </a>
+  
+
+  
+  <a class="btn btn-outline-primary btn-page-header btn-sm" href="/project/dynamics/">
+    Project
+  </a>
+  
+
+
+
+
+
+
+
+
+
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="https://doi.org/https://doi.org/10.5670/oceanog.2019.307" target="_blank" rel="noopener">
+  DOI
+</a>
+
+
+
+    </div>
+    
+
+  </div>
+  <div class="ml-3">
+    
+    
+  </div>
+</div>
+
+          
+        
+          
+            
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+  
+
+
+<div class="media stream-item">
+  <div class="media-body">
+
+    <div class="section-subheading article-title mb-0 mt-0">
+      <a href="/publication/pennekamp-2019-uq/" >The intrinsic predictability of ecological time series and its potential to guide forecasting</a>
+    </div>
+
+    
+    <a href="/publication/pennekamp-2019-uq/"  class="summary-link">
+      <div class="article-style">
+        Successfully predicting the future states of systems that are complex, stochastic, and potentially chaotic is a major challenge. Model …
+      </div>
+    </a>
+    
+
+    <div class="stream-meta article-metadata">
+
+      
+
+      
+      <div>
+        
+
+  <span >
+      <a href="/authors/pennekamp/">Pennekamp</a></span>, <span >
+      <a href="/authors/iles/">Iles</a></span>, <span >
+      <a href="/authors/garland/">Garland</a></span>, <span >
+      <a href="/authors/brennan/">Brennan</a></span>, <span >
+      <a href="/authors/brose/">Brose</a></span>, <span >
+      <a href="/authors/gaedke/">Gaedke</a></span>, <span >
+      <a href="/authors/jacob/">Jacob</a></span>, <span >
+      <a href="/authors/kratina/">Kratina</a></span>, <span >
+      <a href="/authors/matthews/">Matthews</a></span>, <span >
+      <a href="/authors/munch/">Munch</a></span>, <span >
+      <a href="/authors/novak/">Novak</a></span>, <span >
+      <a href="/authors/palamara/">Palamara</a></span>, <span >
+      <a href="/authors/rall/">Rall</a></span>, <span >
+      <a href="/authors/rosenbaum/">Rosenbaum</a></span>, <span >
+      <a href="/authors/tabi/">Tabi</a></span>, <span >
+      <a href="/authors/ward/">Ward</a></span>, <span >
+      <a href="/authors/williams/">Williams</a></span>, <span >
+      <a href="/authors/ye/">Ye</a></span>, <span >
+      <a href="/authors/petchey/">Petchey</a></span>
+      </div>
+      
+    </div>
+
+    
+    <div class="btn-links">
+      
+
+
+
+
+
+
+
+
+  
+    
+  
+
+
+
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="/pubs/Pennekamp_etal_2019.pdf" target="_blank" rel="noopener">
+  PDF
+</a>
+
+
+
+<a href="#" class="btn btn-outline-primary btn-page-header btn-sm js-cite-modal"
+        data-filename="/publication/pennekamp-2019-uq/cite.bib">
+  Cite
+</a>
+
+
+  
+  
+    
+  
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="https://github.com/spred-working-group" target="_blank" rel="noopener">
+  Code
+</a>
+
+
+
+
+  
+  <a class="btn btn-outline-primary btn-page-header btn-sm" href="/project/dynamics/">
+    Project
+  </a>
+  
+
+
+
+
+
+
+
+
+
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="https://doi.org/10.1002/ecm.1359" target="_blank" rel="noopener">
+  DOI
+</a>
+
+
+  
+  
+  
+    
+  
+  
+  
+  
+  
+    
+    
+      
+    
+  
+  <a class="btn btn-outline-primary btn-page-header btn-sm" href="/pubs/Pennekamp_etal_2019_supp.pdf" >
+    
+    SOM
+  </a>
+
+
+    </div>
+    
+
+  </div>
+  <div class="ml-3">
+    
+    
+    
+    <a href="/publication/pennekamp-2019-uq/" >
+      <img src="/publication/pennekamp-2019-uq/featured_huab0b88b6c7fb282d8803f2eaf38c96d2_587753_150x0_resize_q75_lanczos.jpg" alt="The intrinsic predictability of ecological time series and its potential to guide forecasting" loading="lazy">
+    </a>
+    
+  </div>
+</div>
+
+          
+        
+          
+            
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+  
+
+
+<div class="media stream-item">
+  <div class="media-body">
+
+    <div class="section-subheading article-title mb-0 mt-0">
+      <a href="/publication/koslicki-2018-zm/" >Exact probabilities for the indeterminacy of complex networks as perceived through press perturbations</a>
+    </div>
+
+    
+    <a href="/publication/koslicki-2018-zm/"  class="summary-link">
+      <div class="article-style">
+        We consider the goal of predicting how complex networks respond to chronic (press) perturbations when characterizations of their …
+      </div>
+    </a>
+    
+
+    <div class="stream-meta article-metadata">
+
+      
+
+      
+      <div>
+        
+
+  <span >
+      <a href="/authors/koslicki/">Koslicki</a></span>, <span >
+      <a href="/authors/novak/">Novak</a></span>
+      </div>
+      
+    </div>
+
+    
+    <div class="btn-links">
+      
+
+
+
+
+
+  
+  
+    
+  
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="https://arxiv.org/abs/1610.07705" target="_blank" rel="noopener">
+  Preprint
+</a>
+
+
+
+
+  
+    
+  
+
+
+
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="/pubs/KoslickiNovak_2018.pdf" target="_blank" rel="noopener">
+  PDF
+</a>
+
+
+
+<a href="#" class="btn btn-outline-primary btn-page-header btn-sm js-cite-modal"
+        data-filename="/publication/koslicki-2018-zm/cite.bib">
+  Cite
+</a>
+
+
+  
+  
+    
+  
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="https://cran.r-project.org/package=PressPurt" target="_blank" rel="noopener">
+  Code
+</a>
+
+
+
+
+  
+  <a class="btn btn-outline-primary btn-page-header btn-sm" href="/project/theory/">
+    Project
+  </a>
+  
+
+  
+  <a class="btn btn-outline-primary btn-page-header btn-sm" href="/project/dynamics/">
+    Project
+  </a>
+  
+
+
+
+
+
+
+
+
+
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="https://doi.org/10.1007/s00285-017-1163-0" target="_blank" rel="noopener">
+  DOI
+</a>
+
+
+  
+  
+  
+    
+  
+  
+  
+  
+  
+    
+    
+      
+    
+  
+  <a class="btn btn-outline-primary btn-page-header btn-sm" href="/" >
+    
+    SOM
+  </a>
+
+
+    </div>
+    
+
+  </div>
+  <div class="ml-3">
+    
+    
+    
+    <a href="/publication/koslicki-2018-zm/" >
+      <img src="/publication/koslicki-2018-zm/featured_huf26e012bc3492752b6c01b5244594c33_378713_150x0_resize_lanczos_2.png" alt="Exact probabilities for the indeterminacy of complex networks as perceived through press perturbations" loading="lazy">
+    </a>
+    
+  </div>
+</div>
+
+          
+        
+          
+            
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+  
+
+
+<div class="media stream-item">
+  <div class="media-body">
+
+    <div class="section-subheading article-title mb-0 mt-0">
+      <a href="/publication/witman-2017-jm/" >Experimental demonstration of a trophic cascade in the Galápagos rocky subtidal:  Effects of consumer identity and behavior</a>
+    </div>
+
+    
+    <a href="/publication/witman-2017-jm/"  class="summary-link">
+      <div class="article-style">
+        In diverse tropical webs, trophic cascades are presumed to be rare, as species interactions may dampen top-down control and reduce …
+      </div>
+    </a>
+    
+
+    <div class="stream-meta article-metadata">
+
+      
+
+      
+      <div>
+        
+
+  <span >
+      <a href="/authors/witman/">Witman</a></span>, <span >
+      <a href="/authors/smith/">Smith</a></span>, <span >
+      <a href="/authors/novak/">Novak</a></span>
+      </div>
+      
+    </div>
+
+    
+    <div class="btn-links">
+      
+
+
+
+
+
+
+
+
+  
+    
+  
+
+
+
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="/pubs/WitmanSmithNovak_2017.pdf" target="_blank" rel="noopener">
+  PDF
+</a>
+
+
+
+<a href="#" class="btn btn-outline-primary btn-page-header btn-sm js-cite-modal"
+        data-filename="/publication/witman-2017-jm/cite.bib">
+  Cite
+</a>
+
+
+
+
+
+  
+  <a class="btn btn-outline-primary btn-page-header btn-sm" href="/project/subtidal/">
+    Project
+  </a>
+  
+
+  
+  <a class="btn btn-outline-primary btn-page-header btn-sm" href="/project/dynamics/">
+    Project
+  </a>
+  
+
+  
+  <a class="btn btn-outline-primary btn-page-header btn-sm" href="/project/intxnstrngth/">
+    Project
+  </a>
+  
+
+
+
+
+
+
+
+
+
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="https://doi.org/10.1371/journal.pone.0175705" target="_blank" rel="noopener">
+  DOI
+</a>
+
+
+  
+  
+  
+    
+  
+  
+  
+  
+  
+    
+  
+  <a class="btn btn-outline-primary btn-page-header btn-sm" href="http://www.bco-dmo.org/dataset/632737" target="_blank" rel="noopener">
+    
+    Data1
+  </a>
+
+  
+  
+  
+    
+  
+  
+  
+  
+  
+    
+  
+  <a class="btn btn-outline-primary btn-page-header btn-sm" href="http://www.bco-dmo.org/dataset/635717" target="_blank" rel="noopener">
+    
+    Data2
+  </a>
+
+  
+  
+  
+    
+  
+  
+  
+  
+  
+    
+  
+  <a class="btn btn-outline-primary btn-page-header btn-sm" href="http://www.bco-dmo.org/dataset/632769" target="_blank" rel="noopener">
+    
+    Data3
+  </a>
+
+  
+  
+  
+    
+  
+  
+  
+  
+  
+    
+  
+  <a class="btn btn-outline-primary btn-page-header btn-sm" href="https://youtu.be/V15b88jSki0" target="_blank" rel="noopener">
+    
+    video
+  </a>
+
+
+    </div>
+    
+
+  </div>
+  <div class="ml-3">
+    
+    
+    
+    <a href="/publication/witman-2017-jm/" >
+      <img src="/publication/witman-2017-jm/featured_hu86164bb461ebae6f81e890dfe37d2035_623947_150x0_resize_lanczos_2.png" alt="Experimental demonstration of a trophic cascade in the Galápagos rocky subtidal:  Effects of consumer identity and behavior" loading="lazy">
+    </a>
+    
+  </div>
+</div>
+
+          
+        
+          
+            
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+  
+
+
+<div class="media stream-item">
+  <div class="media-body">
+
+    <div class="section-subheading article-title mb-0 mt-0">
+      <a href="/publication/hughes-2017-uq/" >Long-Term Studies Contribute Disproportionately to Ecology and Policy</a>
+    </div>
+
+    
+    <a href="/publication/hughes-2017-uq/"  class="summary-link">
+      <div class="article-style">
+        As the contribution for long-term ecological and environmental studies (LTEES) to our understanding of how species and ecosystems …
+      </div>
+    </a>
+    
+
+    <div class="stream-meta article-metadata">
+
+      
+
+      
+      <div>
+        
+
+  <span >
+      <a href="/authors/hughes/">Hughes</a></span>, <span >
+      <a href="/authors/beas-luna/">Beas-Luna</a></span>, <span >
+      <a href="/authors/barner/">Barner</a></span>, <span >
+      <a href="/authors/brewitt/">Brewitt</a></span>, <span >
+      <a href="/authors/brumbaugh/">Brumbaugh</a></span>, <span >
+      <a href="/authors/cerny-chipman/">Cerny-Chipman</a></span>, <span >
+      <a href="/authors/close/">Close</a></span>, <span >
+      <a href="/authors/coblentz/">Coblentz</a></span>, <span >
+      <a href="/authors/de-nesnera/">de Nesnera</a></span>, <span >
+      <a href="/authors/drobnitch/">Drobnitch</a></span>, <span >
+      <a href="/authors/figurski/">Figurski</a></span>, <span >
+      <a href="/authors/focht/">Focht</a></span>, <span >
+      <a href="/authors/friedman/">Friedman</a></span>, <span >
+      <a href="/authors/freiwald/">Freiwald</a></span>, <span >
+      <a href="/authors/heady/">Heady</a></span>, <span >
+      <a href="/authors/hettinger/">Hettinger</a></span>, <span >
+      <a href="/authors/johnson/">Johnson</a></span>, <span >
+      <a href="/authors/karr/">Karr</a></span>, <span >
+      <a href="/authors/mahoney/">Mahoney</a></span>, <span >
+      <a href="/authors/moritsch/">Moritsch</a></span>, <span >
+      <a href="/authors/osterback/">Osterback</a></span>, <span >
+      <a href="/authors/reimer/">Reimer</a></span>, <span >
+      <a href="/authors/robinson/">Robinson</a></span>, <span >
+      <a href="/authors/rohrer/">Rohrer</a></span>, <span >
+      <a href="/authors/rose/">Rose</a></span>, <span >
+      <a href="/authors/sabal/">Sabal</a></span>, <span >
+      <a href="/authors/segui/">Segui</a></span>, <span >
+      <a href="/authors/shen/">Shen</a></span>, <span >
+      <a href="/authors/sullivan/">Sullivan</a></span>, <span >
+      <a href="/authors/zuercher/">Zuercher</a></span>, <span >
+      <a href="/authors/raimondi/">Raimondi</a></span>, <span >
+      <a href="/authors/menge/">Menge</a></span>, <span >
+      <a href="/authors/grorud-colvert/">Grorud-Colvert</a></span>, <span >
+      <a href="/authors/novak/">Novak</a></span>, <span >
+      <a href="/authors/carr/">Carr</a></span>
+      </div>
+      
+    </div>
+
+    
+    <div class="btn-links">
+      
+
+
+
+
+
+
+
+
+  
+    
+  
+
+
+
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="/pubs/Hughes_etal_2017.pdf" target="_blank" rel="noopener">
+  PDF
+</a>
+
+
+
+<a href="#" class="btn btn-outline-primary btn-page-header btn-sm js-cite-modal"
+        data-filename="/publication/hughes-2017-uq/cite.bib">
+  Cite
+</a>
+
+
+
+
+
+  
+  <a class="btn btn-outline-primary btn-page-header btn-sm" href="/project/dynamics/">
+    Project
+  </a>
+  
+
+
+
+
+
+
+
+
+
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="https://doi.org/10.1093/biosci/biw185" target="_blank" rel="noopener">
+  DOI
+</a>
+
+
+  
+  
+  
+    
+  
+  
+  
+  
+  
+    
+    
+      
+    
+  
+  <a class="btn btn-outline-primary btn-page-header btn-sm" href="/pubs/Hughes_etal_2017_supp.pdf" >
+    
+    SOM
+  </a>
+
+
+    </div>
+    
+
+  </div>
+  <div class="ml-3">
+    
+    
+    
+    <a href="/publication/hughes-2017-uq/" >
+      <img src="/publication/hughes-2017-uq/featured_hu456dc3e8ef8143b742d313d0e02ed4ac_3265561_150x0_resize_q75_lanczos.jpg" alt="Long-Term Studies Contribute Disproportionately to Ecology and Policy" loading="lazy">
+    </a>
+    
+  </div>
+</div>
+
+          
+        
+          
+            
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+  
+
+
+<div class="media stream-item">
+  <div class="media-body">
+
+    <div class="section-subheading article-title mb-0 mt-0">
+      <a href="/publication/samhouri-2017-om/" >Rapid and direct recoveries of predators and prey through synchronized ecosystem management</a>
+    </div>
+
+    
+    <a href="/publication/samhouri-2017-om/"  class="summary-link">
+      <div class="article-style">
+        One of the twenty-first century’s greatest environmental challenges is to recover and restore species, habitats and ecosystems. The …
+      </div>
+    </a>
+    
+
+    <div class="stream-meta article-metadata">
+
+      
+
+      
+      <div>
+        
+
+  <span >
+      <a href="/authors/samhouri/">Samhouri</a></span>, <span >
+      <a href="/authors/stier/">Stier</a></span>, <span >
+      <a href="/authors/hennessey/">Hennessey</a></span>, <span >
+      <a href="/authors/novak/">Novak</a></span>, <span >
+      <a href="/authors/halpern/">Halpern</a></span>, <span >
+      <a href="/authors/levin/">Levin</a></span>
+      </div>
+      
+    </div>
+
+    
+    <div class="btn-links">
+      
+
+
+
+
+
+
+
+
+  
+    
+  
+
+
+
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="/pubs/Samhouri_etal_2017.pdf" target="_blank" rel="noopener">
+  PDF
+</a>
+
+
+
+<a href="#" class="btn btn-outline-primary btn-page-header btn-sm js-cite-modal"
+        data-filename="/publication/samhouri-2017-om/cite.bib">
+  Cite
+</a>
+
+
+
+
+
+  
+  <a class="btn btn-outline-primary btn-page-header btn-sm" href="/project/dynamics/">
+    Project
+  </a>
+  
+
+  
+  <a class="btn btn-outline-primary btn-page-header btn-sm" href="/project/theory/">
+    Project
+  </a>
+  
+
+
+
+
+
+
+
+
+
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="https://doi.org/10.1038/s41559-016-0068" target="_blank" rel="noopener">
+  DOI
+</a>
+
+
+  
+  
+  
+    
+  
+  
+  
+  
+  
+    
+    
+      
+    
+  
+  <a class="btn btn-outline-primary btn-page-header btn-sm" href="/pubs/Samhouri_etal_2017_SOM.pdf" >
+    
+    SOM
+  </a>
+
+
+    </div>
+    
+
+  </div>
+  <div class="ml-3">
+    
+    
+  </div>
+</div>
+
+          
+        
+          
+            
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+  
+
+
+<div class="media stream-item">
+  <div class="media-body">
+
+    <div class="section-subheading article-title mb-0 mt-0">
+      <a href="/publication/novak-2016-og/" >Characterizing species interactions to understand press perturbations: What is the community matrix?</a>
+    </div>
+
+    
+    <a href="/publication/novak-2016-og/"  class="summary-link">
+      <div class="article-style">
+        The community matrix is among ecology&rsquo;s most important mathematical abstractions, formally encapsulating the interconnected …
+      </div>
+    </a>
+    
+
+    <div class="stream-meta article-metadata">
+
+      
+
+      
+      <div>
+        
+
+  <span >
+      <a href="/authors/novak/">Novak</a></span>, <span >
+      <a href="/authors/yeakel/">Yeakel</a></span>, <span >
+      <a href="/authors/noble/">Noble</a></span>, <span >
+      <a href="/authors/doak/">Doak</a></span>, <span >
+      <a href="/authors/emmerson/">Emmerson</a></span>, <span >
+      <a href="/authors/estes/">Estes</a></span>, <span >
+      <a href="/authors/jacob/">Jacob</a></span>, <span >
+      <a href="/authors/tinker/">Tinker</a></span>, <span >
+      <a href="/authors/wootton/">Wootton</a></span>
+      </div>
+      
+    </div>
+
+    
+    <div class="btn-links">
+      
+
+
+
+
+
+
+
+
+  
+    
+  
+
+
+
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="/pubs/Novak_etal_2016.pdf" target="_blank" rel="noopener">
+  PDF
+</a>
+
+
+
+<a href="#" class="btn btn-outline-primary btn-page-header btn-sm js-cite-modal"
+        data-filename="/publication/novak-2016-og/cite.bib">
+  Cite
+</a>
+
+
+
+
+
+  
+  <a class="btn btn-outline-primary btn-page-header btn-sm" href="/project/theory/">
+    Project
+  </a>
+  
+
+  
+  <a class="btn btn-outline-primary btn-page-header btn-sm" href="/project/dynamics/">
+    Project
+  </a>
+  
+
+  
+  <a class="btn btn-outline-primary btn-page-header btn-sm" href="/project/intxnstrngth/">
+    Project
+  </a>
+  
+
+
+
+
+
+
+
+
+
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="https://doi.org/10.1146/annurev-ecolsys-032416-010215" target="_blank" rel="noopener">
+  DOI
+</a>
+
+
+  
+  
+  
+    
+  
+  
+  
+  
+  
+    
+    
+      
+    
+  
+  <a class="btn btn-outline-primary btn-page-header btn-sm" href="/pubs/Novak_etal_2016_supp.pdf" >
+    
+    SOM
+  </a>
+
+
+    </div>
+    
+
+  </div>
+  <div class="ml-3">
+    
+    
+    
+    <a href="/publication/novak-2016-og/" >
+      <img src="/publication/novak-2016-og/featured_hub4a5d3dcadf46106abb950d150cca4ee_605143_150x0_resize_q75_lanczos.jpg" alt="Characterizing species interactions to understand press perturbations: What is the community matrix?" loading="lazy">
+    </a>
+    
+  </div>
+</div>
+
+          
+        
+          
+            
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+  
+
+
+<div class="media stream-item">
+  <div class="media-body">
+
+    <div class="section-subheading article-title mb-0 mt-0">
+      <a href="/publication/iles-2016-br/" >Complexity increases predictability in allometrically constrained food webs</a>
+    </div>
+
+    
+    <a href="/publication/iles-2016-br/"  class="summary-link">
+      <div class="article-style">
+        All ecosystems are subjected to chronic disturbances, such as harvest, pollution, and climate change. The capacity to forecast how …
+      </div>
+    </a>
+    
+
+    <div class="stream-meta article-metadata">
+
+      
+
+      
+      <div>
+        
+
+  <span >
+      <a href="/authors/iles/">Iles</a></span>, <span >
+      <a href="/authors/novak/">Novak</a></span>
+      </div>
+      
+    </div>
+
+    
+    <div class="btn-links">
+      
+
+
+
+
+
+
+
+
+  
+    
+  
+
+
+
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="/pubs/IlesNovak_2016.pdf" target="_blank" rel="noopener">
+  PDF
+</a>
+
+
+
+<a href="#" class="btn btn-outline-primary btn-page-header btn-sm js-cite-modal"
+        data-filename="/publication/iles-2016-br/cite.bib">
+  Cite
+</a>
+
+
+
+
+
+  
+  <a class="btn btn-outline-primary btn-page-header btn-sm" href="/project/theory/">
+    Project
+  </a>
+  
+
+  
+  <a class="btn btn-outline-primary btn-page-header btn-sm" href="/project/dynamics/">
+    Project
+  </a>
+  
+
+
+
+
+
+
+
+
+
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="https://doi.org/10.1086/686730" target="_blank" rel="noopener">
+  DOI
+</a>
+
+
+  
+  
+  
+    
+  
+  
+  
+  
+  
+    
+  
+  <a class="btn btn-outline-primary btn-page-header btn-sm" href="https://doi.org/10.5061/dryad.m27p0" target="_blank" rel="noopener">
+    
+    Data
+  </a>
+
+  
+  
+  
+    
+  
+  
+  
+  
+  
+    
+    
+      
+    
+  
+  <a class="btn btn-outline-primary btn-page-header btn-sm" href="/pubs/IlesNovak_2016_SOM.pdf" >
+    
+    SOM
+  </a>
+
+
+    </div>
+    
+
+  </div>
+  <div class="ml-3">
+    
+    
+    
+    <a href="/publication/iles-2016-br/" >
+      <img src="/publication/iles-2016-br/featured_hu45ba0ac37435976ed0896aa711d01225_43443_150x0_resize_lanczos.gif" alt="Complexity increases predictability in allometrically constrained food webs" loading="lazy">
+    </a>
+    
+  </div>
+</div>
+
+          
+        
+          
+            
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+  
+
+
+<div class="media stream-item">
+  <div class="media-body">
+
+    <div class="section-subheading article-title mb-0 mt-0">
+      <a href="/publication/stier-2016-yj/" >Ecosystem context and historical contingency in apex predator recoveries</a>
+    </div>
+
+    
+    <a href="/publication/stier-2016-yj/"  class="summary-link">
+      <div class="article-style">
+        Habitat loss, overexploitation, and numerous other stressors have caused global declines in apex predators. This “trophic downgrading” …
+      </div>
+    </a>
+    
+
+    <div class="stream-meta article-metadata">
+
+      
+
+      
+      <div>
+        
+
+  <span >
+      <a href="/authors/stier/">Stier</a></span>, <span >
+      <a href="/authors/samhouri/">Samhouri</a></span>, <span >
+      <a href="/authors/novak/">Novak</a></span>, <span >
+      <a href="/authors/marshall/">Marshall</a></span>, <span >
+      <a href="/authors/ward/">Ward</a></span>, <span >
+      <a href="/authors/holt/">Holt</a></span>, <span >
+      <a href="/authors/levin/">Levin</a></span>
+      </div>
+      
+    </div>
+
+    
+    <div class="btn-links">
+      
+
+
+
+
+
+
+
+
+  
+    
+  
+
+
+
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="/pubs/Stier_etal_2016.pdf" target="_blank" rel="noopener">
+  PDF
+</a>
+
+
+
+<a href="#" class="btn btn-outline-primary btn-page-header btn-sm js-cite-modal"
+        data-filename="/publication/stier-2016-yj/cite.bib">
+  Cite
+</a>
+
+
+
+
+
+  
+  <a class="btn btn-outline-primary btn-page-header btn-sm" href="/project/dynamics/">
+    Project
+  </a>
+  
+
+  
+  <a class="btn btn-outline-primary btn-page-header btn-sm" href="/project/theory/">
+    Project
+  </a>
+  
+
+
+
+
+
+
+
+
+
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="https://doi.org/10.1126/sciadv.1501769" target="_blank" rel="noopener">
+  DOI
+</a>
+
+
+
+    </div>
+    
+
+  </div>
+  <div class="ml-3">
+    
+    
+  </div>
+</div>
+
+          
+        
+          
+            
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+  
+
+
+<div class="media stream-item">
+  <div class="media-body">
+
+    <div class="section-subheading article-title mb-0 mt-0">
+      <a href="/publication/ingeman-2016-aa/" >Effects of predator introductions on population and community dynamics</a>
+    </div>
+
+    
+    <a href="/publication/ingeman-2016-aa/"  class="summary-link">
+      <div class="article-style">
+        <p>There is increasing awareness that human activities are altering the ways that natural systems operate and that local shifts in species …</p>
+      </div>
+    </a>
+    
+
+    <div class="stream-meta article-metadata">
+
+      
+
+      
+      <div>
+        
+
+  <span class="author-highlighted">
+      <a href="/authors/kurt-ingeman/">Kurt Ingeman</a></span>
+      </div>
+      
+    </div>
+
+    
+    <div class="btn-links">
+      
+
+
+
+
+
+
+
+
+  
+    
+  
+
+
+
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="/theses/IngemanKurt_2016.pdf" target="_blank" rel="noopener">
+  PDF
+</a>
+
+
+
+<a href="#" class="btn btn-outline-primary btn-page-header btn-sm js-cite-modal"
+        data-filename="/publication/ingeman-2016-aa/cite.bib">
+  Cite
+</a>
+
+
+
+
+
+  
+  <a class="btn btn-outline-primary btn-page-header btn-sm" href="/project/theory/">
+    Project
+  </a>
+  
+
+  
+  <a class="btn btn-outline-primary btn-page-header btn-sm" href="/project/subtidal/">
+    Project
+  </a>
+  
+
+  
+  <a class="btn btn-outline-primary btn-page-header btn-sm" href="/project/dynamics/">
+    Project
+  </a>
+  
+
+
+
+
+
+
+
+
+
+
+  
+  
+  
+    
+  
+  
+  
+  
+  
+    
+    
+      
+    
+  
+  <a class="btn btn-outline-primary btn-page-header btn-sm" href="/posters/2016_Ingeman_GRC.pdf" >
+    
+    Poster
+  </a>
+
+
+    </div>
+    
+
+  </div>
+  <div class="ml-3">
+    
+    
+  </div>
+</div>
+
+          
+        
+          
+            
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+  
+
+
+<div class="media stream-item">
+  <div class="media-body">
+
+    <div class="section-subheading article-title mb-0 mt-0">
+      <a href="/publication/krumhansl-2016-sb/" >Global patterns of kelp forest change over the past half-century</a>
+    </div>
+
+    
+    <a href="/publication/krumhansl-2016-sb/"  class="summary-link">
+      <div class="article-style">
+        Kelp forests (Order Laminariales) form key biogenic habitats in coastal regions of temperate and Arctic seas worldwide, providing …
+      </div>
+    </a>
+    
+
+    <div class="stream-meta article-metadata">
+
+      
+
+      
+      <div>
+        
+
+  <span >
+      <a href="/authors/krumhansl/">Krumhansl</a></span>, <span >
+      <a href="/authors/okamoto/">Okamoto</a></span>, <span >
+      <a href="/authors/rassweiler/">Rassweiler</a></span>, <span >
+      <a href="/authors/novak/">Novak</a></span>, <span >
+      <a href="/authors/bolton/">Bolton</a></span>, <span >
+      <a href="/authors/cavanaugh/">Cavanaugh</a></span>, <span >
+      <a href="/authors/connell/">Connell</a></span>, <span >
+      <a href="/authors/johnson/">Johnson</a></span>, <span >
+      <a href="/authors/konar/">Konar</a></span>, <span >
+      <a href="/authors/ling/">Ling</a></span>, <span >
+      <a href="/authors/micheli/">Micheli</a></span>, <span >
+      <a href="/authors/norderhaug/">Norderhaug</a></span>, <span >
+      <a href="/authors/perez-matus/">Pérez-Matus</a></span>, <span >
+      <a href="/authors/sousa-pinto/">Sousa-Pinto</a></span>, <span >
+      <a href="/authors/reed/">Reed</a></span>, <span >
+      <a href="/authors/salomon/">Salomon</a></span>, <span >
+      <a href="/authors/shears/">Shears</a></span>, <span >
+      <a href="/authors/wernberg/">Wernberg</a></span>, <span >
+      <a href="/authors/anderson/">Anderson</a></span>, <span >
+      <a href="/authors/barrett/">Barrett</a></span>, <span >
+      <a href="/authors/buschmann/">Buschmann</a></span>, <span >
+      <a href="/authors/carr/">Carr</a></span>, <span >
+      <a href="/authors/caselle/">Caselle</a></span>, <span >
+      <a href="/authors/derrien-courtel/">Derrien-Courtel</a></span>, <span >
+      <a href="/authors/edgar/">Edgar</a></span>, <span >
+      <a href="/authors/edwards/">Edwards</a></span>, <span >
+      <a href="/authors/estes/">Estes</a></span>, <span >
+      <a href="/authors/goodwin/">Goodwin</a></span>, <span >
+      <a href="/authors/kenner/">Kenner</a></span>, <span >
+      <a href="/authors/kushner/">Kushner</a></span>, <span >
+      <a href="/authors/moy/">Moy</a></span>, <span >
+      <a href="/authors/nunn/">Nunn</a></span>, <span >
+      <a href="/authors/steneck/">Steneck</a></span>, <span >
+      <a href="/authors/vasquez/">Vásquez</a></span>, <span >
+      <a href="/authors/watson/">Watson</a></span>, <span >
+      <a href="/authors/witman/">Witman</a></span>, <span >
+      <a href="/authors/byrnes/">Byrnes</a></span>
+      </div>
+      
+    </div>
+
+    
+    <div class="btn-links">
+      
+
+
+
+
+
+
+
+
+  
+    
+  
+
+
+
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="/pubs/Krumhansl_etal_2016.pdf" target="_blank" rel="noopener">
+  PDF
+</a>
+
+
+
+<a href="#" class="btn btn-outline-primary btn-page-header btn-sm js-cite-modal"
+        data-filename="/publication/krumhansl-2016-sb/cite.bib">
+  Cite
+</a>
+
+
+  
+  
+    
+  
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="https://github.com/kelpecosystems/global_kelp_time_series" target="_blank" rel="noopener">
+  Code
+</a>
+
+
+
+
+  
+  <a class="btn btn-outline-primary btn-page-header btn-sm" href="/project/subtidal/">
+    Project
+  </a>
+  
+
+  
+  <a class="btn btn-outline-primary btn-page-header btn-sm" href="/project/dynamics/">
+    Project
+  </a>
+  
+
+
+
+
+
+
+
+
+
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="https://doi.org/10.1073/pnas.1606102113" target="_blank" rel="noopener">
+  DOI
+</a>
+
+
+  
+  
+  
+    
+  
+  
+  
+  
+  
+    
+  
+  <a class="btn btn-outline-primary btn-page-header btn-sm" href="http://www.kelpecosystems.org/data/" target="_blank" rel="noopener">
+    
+    Data
+  </a>
+
+  
+  
+  
+    
+  
+  
+  
+  
+  
+    
+    
+      
+    
+  
+  <a class="btn btn-outline-primary btn-page-header btn-sm" href="/pubs/Krumhansl_etal_2016_SOM.pdf" >
+    
+    SOM
+  </a>
+
+
+    </div>
+    
+
+  </div>
+  <div class="ml-3">
+    
+    
+    
+    <a href="/publication/krumhansl-2016-sb/" >
+      <img src="/publication/krumhansl-2016-sb/featured_hu1277959bc9d8bf7b63da181e7deac72f_213418_150x0_resize_q75_lanczos.jpg" alt="Global patterns of kelp forest change over the past half-century" loading="lazy">
+    </a>
+    
+  </div>
+</div>
+
+          
+        
+          
+            
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+  
+
+
+<div class="media stream-item">
+  <div class="media-body">
+
+    <div class="section-subheading article-title mb-0 mt-0">
+      <a href="/publication/borrelli-2015-cy/" >Selection on stability across ecological scales</a>
+    </div>
+
+    
+    <a href="/publication/borrelli-2015-cy/"  class="summary-link">
+      <div class="article-style">
+        Much of the focus in evolutionary biology has been on the adaptive differentiation among organisms. It is equally important to …
+      </div>
+    </a>
+    
+
+    <div class="stream-meta article-metadata">
+
+      
+
+      
+      <div>
+        
+
+  <span >
+      <a href="/authors/borrelli/">Borrelli</a></span>, <span >
+      <a href="/authors/allesina/">Allesina</a></span>, <span >
+      <a href="/authors/amarasekare/">Amarasekare</a></span>, <span >
+      <a href="/authors/arditi/">Arditi</a></span>, <span >
+      <a href="/authors/chase/">Chase</a></span>, <span >
+      <a href="/authors/damuth/">Damuth</a></span>, <span >
+      <a href="/authors/holt/">Holt</a></span>, <span >
+      <a href="/authors/logofet/">Logofet</a></span>, <span >
+      <a href="/authors/novak/">Novak</a></span>, <span >
+      <a href="/authors/rohr/">Rohr</a></span>, <span >
+      <a href="/authors/rossberg/">Rossberg</a></span>, <span >
+      <a href="/authors/spencer/">Spencer</a></span>, <span >
+      <a href="/authors/tran/">Tran</a></span>, <span >
+      <a href="/authors/ginzburg/">Ginzburg</a></span>
+      </div>
+      
+    </div>
+
+    
+    <div class="btn-links">
+      
+
+
+
+
+
+
+
+
+  
+    
+  
+
+
+
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="/pubs/Borrelli_etal_2015.pdf" target="_blank" rel="noopener">
+  PDF
+</a>
+
+
+
+<a href="#" class="btn btn-outline-primary btn-page-header btn-sm js-cite-modal"
+        data-filename="/publication/borrelli-2015-cy/cite.bib">
+  Cite
+</a>
+
+
+
+
+
+  
+  <a class="btn btn-outline-primary btn-page-header btn-sm" href="/project/theory/">
+    Project
+  </a>
+  
+
+  
+  <a class="btn btn-outline-primary btn-page-header btn-sm" href="/project/dynamics/">
+    Project
+  </a>
+  
+
+
+
+
+
+
+
+
+
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="https://doi.org/https://doi.org/10.1016/j.tree.2015.05.001" target="_blank" rel="noopener">
+  DOI
+</a>
+
+
+
+    </div>
+    
+
+  </div>
+  <div class="ml-3">
+    
+    
+    
+    <a href="/publication/borrelli-2015-cy/" >
+      <img src="/publication/borrelli-2015-cy/featured_hu33f2df4084dbbb36acf9b5737a9429fc_67674_150x0_resize_lanczos_2.png" alt="Selection on stability across ecological scales" loading="lazy">
+    </a>
+    
+  </div>
+</div>
+
+          
+        
+          
+            
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+  
+
+
+<div class="media stream-item">
+  <div class="media-body">
+
+    <div class="section-subheading article-title mb-0 mt-0">
+      <a href="/publication/yeakel-2011-uy/" >Generalized modeling of ecological population dynamics</a>
+    </div>
+
+    
+    <a href="/publication/yeakel-2011-uy/"  class="summary-link">
+      <div class="article-style">
+        Over the past 7 years, several authors have used the approach of generalized modeling to study the dynamics of food chains and food …
+      </div>
+    </a>
+    
+
+    <div class="stream-meta article-metadata">
+
+      
+
+      
+      <div>
+        
+
+  <span >
+      <a href="/authors/yeakel/">Yeakel</a></span>, <span >
+      <a href="/authors/stiefs/">Stiefs</a></span>, <span >
+      <a href="/authors/novak/">Novak</a></span>, <span >
+      <a href="/authors/gross/">Gross</a></span>
+      </div>
+      
+    </div>
+
+    
+    <div class="btn-links">
+      
+
+
+
+
+
+
+
+
+  
+    
+  
+
+
+
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="/pubs/Yeakel_etal_2011b.pdf" target="_blank" rel="noopener">
+  PDF
+</a>
+
+
+
+<a href="#" class="btn btn-outline-primary btn-page-header btn-sm js-cite-modal"
+        data-filename="/publication/yeakel-2011-uy/cite.bib">
+  Cite
+</a>
+
+
+
+
+
+  
+  <a class="btn btn-outline-primary btn-page-header btn-sm" href="/project/dynamics/">
+    Project
+  </a>
+  
+
+  
+  <a class="btn btn-outline-primary btn-page-header btn-sm" href="/project/theory/">
+    Project
+  </a>
+  
+
+
+
+
+
+
+
+
+
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="https://doi.org/10.1007/s12080-011-0112-6" target="_blank" rel="noopener">
+  DOI
+</a>
+
+
+
+    </div>
+    
+
+  </div>
+  <div class="ml-3">
+    
+    
+    
+    <a href="/publication/yeakel-2011-uy/" >
+      <img src="/publication/yeakel-2011-uy/featured_hu19fd59cf03e921635ede3f43c1496a17_11321_150x0_resize_lanczos_2.png" alt="Generalized modeling of ecological population dynamics" loading="lazy">
+    </a>
+    
+  </div>
+</div>
+
+          
+        
+          
+            
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+  
+
+
+<div class="media stream-item">
+  <div class="media-body">
+
+    <div class="section-subheading article-title mb-0 mt-0">
+      <a href="/publication/novak-2011-ed/" >Nestedness patterns and the dual nature of community reassembly in California streams: a multivariate permutation-based approach</a>
+    </div>
+
+    
+    <a href="/publication/novak-2011-ed/"  class="summary-link">
+      <div class="article-style">
+        Many factors contribute to the nonrandom processes of extinctions and invasions that are changing the structure of ecological …
+      </div>
+    </a>
+    
+
+    <div class="stream-meta article-metadata">
+
+      
+
+      
+      <div>
+        
+
+  <span >
+      <a href="/authors/novak/">Novak</a></span>, <span >
+      <a href="/authors/moore/">Moore</a></span>, <span >
+      <a href="/authors/leidy/">Leidy</a></span>
+      </div>
+      
+    </div>
+
+    
+    <div class="btn-links">
+      
+
+
+
+
+
+
+
+
+  
+    
+  
+
+
+
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="/pubs/NovakMooreLeidy_2011.pdf" target="_blank" rel="noopener">
+  PDF
+</a>
+
+
+
+<a href="#" class="btn btn-outline-primary btn-page-header btn-sm js-cite-modal"
+        data-filename="/publication/novak-2011-ed/cite.bib">
+  Cite
+</a>
+
+
+  
+  
+    
+  
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="https://github.com/marknovak/MVgradientAnalysis" target="_blank" rel="noopener">
+  Code
+</a>
+
+
+
+
+  
+  <a class="btn btn-outline-primary btn-page-header btn-sm" href="/project/streams/">
+    Project
+  </a>
+  
+
+  
+  <a class="btn btn-outline-primary btn-page-header btn-sm" href="/project/dynamics/">
+    Project
+  </a>
+  
+
+
+
+
+
+
+
+
+
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="https://doi.org/10.1111/j.1365-2486.2011.02482.x" target="_blank" rel="noopener">
+  DOI
+</a>
+
+
+  
+  
+  
+    
+  
+  
+  
+  
+  
+    
+  
+  <a class="btn btn-outline-primary btn-page-header btn-sm" href="https://doi.org/10.6084/m9.figshare.14375030.v1" target="_blank" rel="noopener">
+    
+    Data
+  </a>
+
+  
+  
+  
+    
+  
+  
+  
+  
+  
+    
+    
+      
+    
+  
+  <a class="btn btn-outline-primary btn-page-header btn-sm" href="/pubs/NovakMooreLeidy_2011_SOM.pdf" >
+    
+    SOM
+  </a>
+
+
+    </div>
+    
+
+  </div>
+  <div class="ml-3">
+    
+    
+    
+    <a href="/publication/novak-2011-ed/" >
+      <img src="/publication/novak-2011-ed/featured_hu15be66489c66a30e8c518307f20ea3e8_42758_150x0_resize_lanczos_2.png" alt="Nestedness patterns and the dual nature of community reassembly in California streams: a multivariate permutation-based approach" loading="lazy">
+    </a>
+    
+  </div>
+</div>
+
+          
+        
+          
+            
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+  
+
+
+<div class="media stream-item">
+  <div class="media-body">
+
+    <div class="section-subheading article-title mb-0 mt-0">
+      <a href="/publication/novak-2011-qh/" >Predicting community responses to perturbations in the face of imperfect knowledge and network complexity</a>
+    </div>
+
+    
+    <a href="/publication/novak-2011-qh/"  class="summary-link">
+      <div class="article-style">
+        How best to predict the effects of perturbations to ecological communities has been a long‐standing goal for both applied and basic …
+      </div>
+    </a>
+    
+
+    <div class="stream-meta article-metadata">
+
+      
+
+      
+      <div>
+        
+
+  <span >
+      <a href="/authors/novak/">Novak</a></span>, <span >
+      <a href="/authors/wootton/">Wootton</a></span>, <span >
+      <a href="/authors/doak/">Doak</a></span>, <span >
+      <a href="/authors/emmerson/">Emmerson</a></span>, <span >
+      <a href="/authors/estes/">Estes</a></span>, <span >
+      <a href="/authors/tinker/">Tinker</a></span>
+      </div>
+      
+    </div>
+
+    
+    <div class="btn-links">
+      
+
+
+
+
+
+
+
+
+  
+    
+  
+
+
+
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="/pubs/Novak_etal_2011.pdf" target="_blank" rel="noopener">
+  PDF
+</a>
+
+
+
+<a href="#" class="btn btn-outline-primary btn-page-header btn-sm js-cite-modal"
+        data-filename="/publication/novak-2011-qh/cite.bib">
+  Cite
+</a>
+
+
+  
+  
+    
+  
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="https://github.com/marknovak/LoopAnalysis" target="_blank" rel="noopener">
+  Code
+</a>
+
+
+
+
+  
+  <a class="btn btn-outline-primary btn-page-header btn-sm" href="/project/theory/">
+    Project
+  </a>
+  
+
+  
+  <a class="btn btn-outline-primary btn-page-header btn-sm" href="/project/dynamics/">
+    Project
+  </a>
+  
+
+
+
+
+
+
+
+
+
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="https://doi.org/doi:10.1890/10-1354.1" target="_blank" rel="noopener">
+  DOI
+</a>
+
+
+  
+  
+  
+    
+  
+  
+  
+  
+  
+    
+    
+      
+    
+  
+  <a class="btn btn-outline-primary btn-page-header btn-sm" href="/pubs/Novak_etal_2011_SOM.pdf" >
+    
+    SOM
+  </a>
+
+
+    </div>
+    
+
+  </div>
+  <div class="ml-3">
+    
+    
+    
+    <a href="/publication/novak-2011-qh/" >
+      <img src="/publication/novak-2011-qh/featured_hube04a0c7b4094343384b0c067f18efbd_42095_150x0_resize_lanczos.gif" alt="Predicting community responses to perturbations in the face of imperfect knowledge and network complexity" loading="lazy">
+    </a>
+    
+  </div>
+</div>
+
+          
+        
+          
+            
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+  
+
+
+<div class="media stream-item">
+  <div class="media-body">
+
+    <div class="section-subheading article-title mb-0 mt-0">
+      <a href="/publication/doak-2008-kx/" >Understanding and predicting ecological dynamics: are major surprises inevitable</a>
+    </div>
+
+    
+    <a href="/publication/doak-2008-kx/"  class="summary-link">
+      <div class="article-style">
+        Ecological surprises, substantial and unanticipated changes in the abundance of one or more species that result from previously …
+      </div>
+    </a>
+    
+
+    <div class="stream-meta article-metadata">
+
+      
+
+      
+      <div>
+        
+
+  <span >
+      <a href="/authors/doak/">Doak</a></span>, <span >
+      <a href="/authors/estes/">Estes</a></span>, <span >
+      <a href="/authors/halpern/">Halpern</a></span>, <span >
+      <a href="/authors/jacob/">Jacob</a></span>, <span >
+      <a href="/authors/lindberg/">Lindberg</a></span>, <span >
+      <a href="/authors/lovvorn/">Lovvorn</a></span>, <span >
+      <a href="/authors/monson/">Monson</a></span>, <span >
+      <a href="/authors/tinker/">Tinker</a></span>, <span >
+      <a href="/authors/williams/">Williams</a></span>, <span >
+      <a href="/authors/wootton/">Wootton</a></span>, <span >
+      <a href="/authors/carroll/">Carroll</a></span>, <span >
+      <a href="/authors/emmerson/">Emmerson</a></span>, <span >
+      <a href="/authors/micheli/">Micheli</a></span>, <span >
+      <a href="/authors/novak/">Novak</a></span>
+      </div>
+      
+    </div>
+
+    
+    <div class="btn-links">
+      
+
+
+
+
+
+
+
+
+  
+    
+  
+
+
+
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="/pubs/Doak_etal_2008.pdf" target="_blank" rel="noopener">
+  PDF
+</a>
+
+
+
+<a href="#" class="btn btn-outline-primary btn-page-header btn-sm js-cite-modal"
+        data-filename="/publication/doak-2008-kx/cite.bib">
+  Cite
+</a>
+
+
+  
+  
+    
+  
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="https://doi.org/10.6084/m9.figshare.c.3300272.v1" target="_blank" rel="noopener">
+  Code
+</a>
+
+
+
+
+  
+  <a class="btn btn-outline-primary btn-page-header btn-sm" href="/project/dynamics/">
+    Project
+  </a>
+  
+
+
+
+
+
+
+
+
+
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="https://doi.org/10.1890/07-0965.1" target="_blank" rel="noopener">
+  DOI
+</a>
+
+
+
+    </div>
+    
+
+  </div>
+  <div class="ml-3">
+    
+    
+  </div>
+</div>
+
+          
+        
+      
+
+      
+      
+      
+    </div>
+  </div>
+</article>
+  </div>
+
+  <div class="page-footer">
+    
+    
+    <div class="container">
+      <footer class="site-footer">
+
+  
+
+  
+  <p class="powered-by">
+    
+    
+      
+      <a href="/terms/">Terms</a>
+    
+  </p>
+  
+
+  <p class="powered-by">
+    © 2021 NovakLab
+  </p>
+
+  
+  
+
+
+
+
+
+
+  <p class="powered-by">
+    
+    
+    
+      
+      
+      
+      
+      
+      
+      Published with <a href="https://wowchemy.com/?utm_campaign=poweredby" target="_blank" rel="noopener">Wowchemy</a> — the free, <a href="https://github.com/wowchemy/wowchemy-hugo-modules" target="_blank" rel="noopener">open source</a> website builder that empowers creators.
+    
+  </p>
+</footer>
+
+    </div>
+    
+  </div>
+
+  
+<div id="modal" class="modal fade" role="dialog">
+  <div class="modal-dialog">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title">Cite</h5>
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">&times;</span>
+        </button>
+      </div>
+      <div class="modal-body">
+        <pre><code class="tex hljs"></code></pre>
+      </div>
+      <div class="modal-footer">
+        <a class="btn btn-outline-primary my-1 js-copy-cite" href="#" target="_blank">
+          <i class="fas fa-copy"></i> Copy
+        </a>
+        <a class="btn btn-outline-primary my-1 js-download-cite" href="#" target="_blank">
+          <i class="fas fa-download"></i> Download
+        </a>
+        <div id="modal-error"></div>
+      </div>
+    </div>
+  </div>
+</div>
+
+      
+
+    
+    
+    
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.1/jquery.min.js" integrity="sha256-9/aliU8dGd2tb6OSsuzixeV4y/faTqgFtohetphbbj0=" crossorigin="anonymous"></script>
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/instant.page/5.1.0/instantpage.min.js" integrity="sha512-1+qUtKoh9XZW7j+6LhRMAyOrgSQKenQ4mluTR+cvxXjP1Z54RxZuzstR/H9kgPXQsVB8IW7DMDFUJpzLjvhGSQ==" crossorigin="anonymous"></script>
+
+      
+      
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.imagesloaded/4.1.4/imagesloaded.pkgd.min.js" integrity="sha256-lqvxZrPLtfffUl2G/e7szqSvPBILGbwmsGE1MKlOi0Q=" crossorigin="anonymous"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.isotope/3.0.6/isotope.pkgd.min.js" integrity="sha256-CBrpuqrMhXwcLLUd5tvQ4euBHCdh7wGlDfNz8vbu/iI=" crossorigin="anonymous"></script>
+      
+
+      
+      
+
+      
+
+      
+        
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/10.2.0/highlight.min.js" integrity="sha512-TDKKr+IvoqZnPzc3l35hdjpHD0m+b2EC2SrLEgKDRWpxf2rFCxemkgvJ5kfU48ip+Y+m2XVKyOCD85ybtlZDmw==" crossorigin="anonymous"></script>
+        
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/10.2.0/languages/r.min.js"></script>
+        
+      
+
+    
+
+    
+    
+    
+
+    
+    
+
+    
+    
+    
+      
+      <script id="search-hit-fuse-template" type="text/x-template">
+        <div class="search-hit" id="summary-{{key}}">
+          <div class="search-hit-content">
+            <div class="search-hit-name">
+              <a href="{{relpermalink}}">{{title}}</a>
+              <div class="article-metadata search-hit-type">{{type}}</div>
+              <p class="search-hit-description">{{snippet}}</p>
+            </div>
+          </div>
+        </div>
+      </script>
+      
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/fuse.js/3.2.1/fuse.min.js" integrity="sha256-VzgmKYmhsGNNN4Ph1kMW+BjoYJM2jV5i4IlFoeZA9XI=" crossorigin="anonymous"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/mark.js/8.11.1/jquery.mark.min.js" integrity="sha256-4HLtjeVgH0eIB3aZ9mLYF6E8oU5chNdjU6p6rrXpl9U=" crossorigin="anonymous"></script>
+      
+    
+
+    
+    
+
+    
+    
+    
+    
+
+    
+    <script src="/js/bootstrap.bundle.min.6aed84840afc03ab4d5750157f69c120.js"></script>
+
+    
+    
+      
+      
+      
+      
+      
+      
+      
+    
+
+    
+    
+    
+    
+    
+    
+    
+    
+      
+      
+    
+    
+    <script src="/en/js/wowchemy.min.b61a8f62b6e5c0cd322c8158c5b5dfb6.js"></script>
+
+    
+
+
+
+
+
+
+</body>
+</html>
