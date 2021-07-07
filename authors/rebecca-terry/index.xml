@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Rebecca Terry | NovakLab</title>
+    <link>https://novaklabosu.github.io/authors/rebecca-terry/</link>
+      <atom:link href="https://novaklabosu.github.io/authors/rebecca-terry/index.xml" rel="self" type="application/rss+xml" />
+    <description>Rebecca Terry</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 NovakLab</copyright><lastBuildDate>Thu, 01 Jan 2015 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://novaklabosu.github.io/media/icon_hu0409958f157fc50d4e355b357a277bb5_195869_512x512_fill_lanczos_center_2.png</url>
+      <title>Rebecca Terry</title>
+      <link>https://novaklabosu.github.io/authors/rebecca-terry/</link>
+    </image>
+    
+    <item>
+      <title>Where does the time go?: Mixing and the depth-dependent distribution of fossil ages</title>
+      <link>https://novaklabosu.github.io/publication/terry-2015-lb/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://novaklabosu.github.io/publication/terry-2015-lb/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

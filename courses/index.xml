@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Courses | NovakLab</title>
+    <link>https://novaklabosu.github.io/courses/</link>
+      <atom:link href="https://novaklabosu.github.io/courses/index.xml" rel="self" type="application/rss+xml" />
+    <description>Courses</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 NovakLab</copyright>
+    <image>
+      <url>https://novaklabosu.github.io/media/icon_hu0409958f157fc50d4e355b357a277bb5_195869_512x512_fill_lanczos_center_2.png</url>
+      <title>Courses</title>
+      <link>https://novaklabosu.github.io/courses/</link>
+    </image>
+    
+    <item>
+      <title>Analytical Workflows (IB516)</title>
+      <link>https://novaklabosu.github.io/courses/analyticalworkflows/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://novaklabosu.github.io/courses/analyticalworkflows/</guid>
+      <description>&lt;p&gt;Have you proposed a modeling chapter for your dissertation but need support getting things up and running? Will you soon be sitting on a complete data set ready for your planned analyses but don&amp;rsquo;t know how or where to begin? Maybe you&amp;rsquo;re far along in a series of analyses and feel &amp;ldquo;lost in the trees.&amp;rdquo;&lt;/p&gt;
+&lt;p&gt;This course will help you with these challenges by practicing the development and implementation of efficient, reproducible workflows for your projects. Every project should (and can) be modular and fully automated, hence reproducible, portable and easily modified. Rerunning an analysis with a different set of parameters should (and can) be as simple as a few keystrokes. Regenerating all figures and tables for your manuscript after finding a typo in your code or dataset should (and can) be painless.&lt;/p&gt;
+&lt;p&gt;Efficient workflows start at project conception and end only if the project idea is itself a dead end. Thus, in this course, we&amp;rsquo;ll work to practice (1) refining and articulating project goals and benchmarks, (2) creating modular and automated analyses, and (3) using best practices in coding and project management. We&amp;rsquo;ll learn how to use &lt;em&gt;Git&lt;/em&gt;, &lt;em&gt;GitHub&lt;/em&gt;, &lt;em&gt;LaTeX&lt;/em&gt;, &lt;em&gt;Markdown&lt;/em&gt;, and high performance clusters (&lt;em&gt;HPCs&lt;/em&gt;). The instructors will mostly use &lt;em&gt;R&lt;/em&gt; within &lt;em&gt;RStudio&lt;/em&gt;, but users of other programming languages and text editors are welcome and encouraged. You will need either (1) a dataset and a visualization or analysis goal, or (2) a model or simulation (or sufficiently well-developed ideas for one). The use of other people&amp;rsquo;s data or published models is also encouraged, as needed.&lt;/p&gt;
+&lt;p&gt;All teaching materials for this course are available on &lt;a href=&#34;https://github.com/analyticalworkflows/TeachingMaterials&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;GitHub&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Ecology (BI370)</title>
+      <link>https://novaklabosu.github.io/courses/ecology/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://novaklabosu.github.io/courses/ecology/</guid>
+      <description>&lt;h5 id=&#34;course-description&#34;&gt;Course description&lt;/h5&gt;
+&lt;p&gt;This ecology course consists of an introduction to the scientific study of the processes that shape the distribution, structure and dynamics of species and their communities. Topics include the methods and approaches of ecological research, the interactions between species and their abiotic and biotic environments, the distribution of biodiversity across the globe, the processes regulating population growth, species extinctions and invasions and their implications for conservation and the maintenance of ecosystem services, and the varied and profound impacts of humans on ecological systems.&lt;/p&gt;
+&lt;h5 id=&#34;course-objectives&#34;&gt;Course objectives&lt;/h5&gt;
+&lt;p&gt;By the end of this course, you will be able to: (i) discuss how organisms interact with their biotic and abiotic environments, (ii) infer the processes that structure patterns of biodiversity from local to global scales, (iii) explain how ecological systems are dynamic in space and time based on knowledge of process, (iv) evaluate climate change and the future of biodiversity in the context of Earth’s past record of climate and life, (v) inform others of how anthropogenic activities are impacting the structure and functioning of natural systems, (vi) valuate alternative strategies for the conservation of biodiversity and ecosystem services, and (vii) describe the fundamental role of quantitative reasoning (statistics and modeling) in ecology.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Marine Ecology (BI351)</title>
+      <link>https://novaklabosu.github.io/courses/marineecology/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://novaklabosu.github.io/courses/marineecology/</guid>
+      <description>&lt;h5 id=&#34;course-description&#34;&gt;Course description&lt;/h5&gt;
+&lt;p&gt;This course consists of an introduction to the physical, chemical and biological aspects of life in the oceans, with an ecological emphasis. Topics include the methods of scientific inquiry, the interactions between organisms and their abiotic and biotic environments, the processes regulating populations and communities, local to global patterns of biodiversity, and the varied and profound impacts that we humans are having on all marine systems.&lt;/p&gt;
+&lt;h5 id=&#34;course-objectives&#34;&gt;Course objectives&lt;/h5&gt;
+&lt;p&gt;By the end of this course, you will be able to: (i) disentangle the processes that structure patterns of marine biodiversity from local to global scales, (ii) evaluate ongoing environmental changes facing marine systems and their implications for future biodiversity, (iii) inform others of how anthropogenic activities are impacting the structure and functioning of marine systems, (iv) evaluate strategies for the conservation of marine biodiversity, and (v) appreciate and describe the amazing diversity of lifeforms that inhabit marine environments.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Past courses</title>
+      <link>https://novaklabosu.github.io/courses/past/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://novaklabosu.github.io/courses/past/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;Quantitative Ecology (UCSC, w/ &lt;a href=&#34;https://scholar.google.com/citations?user=jID7d1sAAAAJ&amp;amp;amp;hl=en&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Tim Tinker&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;Long-term Ecology (&lt;em&gt;seminar&lt;/em&gt;, w/ &lt;a href=&#34;http://lubmengelab.oregonstate.edu&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Bruce Menge&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;What is Systems Biology? (&lt;em&gt;seminar&lt;/em&gt;, w/ &lt;a href=&#34;http://vegathurberlab.oregonstate.edu&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Becky Vega-Thurber&lt;/a&gt; and &lt;a href=&#34;http://people.oregonstate.edu/~weisv/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Virginia Weis&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;Eco-Evolutionary Dynamics (&lt;em&gt;seminar&lt;/em&gt;)&lt;/li&gt;
+&lt;li&gt;Analytical Workflows (&lt;em&gt;seminar&lt;/em&gt; w/ &lt;a href=&#34;https://ib.oregonstate.edu/faculty/benjamda/Benjamin-Dalziel&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Ben Dalziel&lt;/a&gt;)&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Theoretical Ecology (BI592)</title>
+      <link>https://novaklabosu.github.io/courses/theoreticalecology/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://novaklabosu.github.io/courses/theoreticalecology/</guid>
+      <description>&lt;p&gt;Undergraduate students who are interested in participating in this course should email me with a brief summary of their interests and goals for taking part.&lt;/p&gt;
+&lt;h5 id=&#34;course-description&#34;&gt;Course description&lt;/h5&gt;
+&lt;p&gt;This course entails a quantitative treatment of the central concepts and applications of theoretical ecology. Emphasis is on the mathematical analysis and modeling of single populations and multi-species interactions, and the integration of models with data. Topics include discrete- and continuous-time models of population growth, stochastic and deterministic processes of unstructured populations, the sustainability of harvested populations, numerical and analytical investigations of population and community invasibility and stability, and an introduction to model-fitting and comparison in an information-theoretic framework.&lt;/p&gt;
+&lt;h5 id=&#34;course-objectives&#34;&gt;Course objectives&lt;/h5&gt;
+&lt;p&gt;Our goals will be to (i) peel away at any apprehensions of mathematical equations you may have, (ii) enable you to independently interpret the classic and modern literature of theoretical ecology, and (iii) enable you to apply analytical and simulation-based approaches in evaluating ecological questions of your own interest and communicate these to an audience of your peers. You&amp;rsquo;ll complete the course with a working knowledge of &lt;em&gt;R&lt;/em&gt; and &lt;em&gt;Mathematica&lt;/em&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

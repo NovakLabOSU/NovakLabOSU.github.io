@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Leah Segui | NovakLab</title>
+    <link>https://novaklabosu.github.io/authors/leah-segui/</link>
+      <atom:link href="https://novaklabosu.github.io/authors/leah-segui/index.xml" rel="self" type="application/rss+xml" />
+    <description>Leah Segui</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 NovakLab</copyright><lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://novaklabosu.github.io/authors/leah-segui/avatar_hu27f7dc34c9db8fd2b063f3fba6be9864_198555_270x270_fill_q75_lanczos_center.jpg</url>
+      <title>Leah Segui</title>
+      <link>https://novaklabosu.github.io/authors/leah-segui/</link>
+    </image>
+    
+    <item>
+      <title>Trematode parasites exceed aquatic insect biomass in Oregon stream food webs</title>
+      <link>https://novaklabosu.github.io/publication/preston-2021-aa/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://novaklabosu.github.io/publication/preston-2021-aa/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>State-structured species interactions and their consequences across levels of biological organization</title>
+      <link>https://novaklabosu.github.io/publication/segui-2019-aa/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://novaklabosu.github.io/publication/segui-2019-aa/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>What drives interaction strengths in complex food webs? A test with feeding rates of a generalist stream predator</title>
+      <link>https://novaklabosu.github.io/publication/preston-2018-kt/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://novaklabosu.github.io/publication/preston-2018-kt/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Long-Term Studies Contribute Disproportionately to Ecology and Policy</title>
+      <link>https://novaklabosu.github.io/publication/hughes-2017-uq/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://novaklabosu.github.io/publication/hughes-2017-uq/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

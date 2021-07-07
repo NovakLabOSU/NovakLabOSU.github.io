@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Kena Fox-Dobbs | NovakLab</title>
+    <link>https://novaklabosu.github.io/authors/kena-fox-dobbs/</link>
+      <atom:link href="https://novaklabosu.github.io/authors/kena-fox-dobbs/index.xml" rel="self" type="application/rss+xml" />
+    <description>Kena Fox-Dobbs</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 NovakLab</copyright><lastBuildDate>Sun, 01 Jan 2012 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://novaklabosu.github.io/media/icon_hu0409958f157fc50d4e355b357a277bb5_195869_512x512_fill_lanczos_center_2.png</url>
+      <title>Kena Fox-Dobbs</title>
+      <link>https://novaklabosu.github.io/authors/kena-fox-dobbs/</link>
+    </image>
+    
+    <item>
+      <title>Probabilistic patterns of interaction: the effects of link-strength variability on food web structure</title>
+      <link>https://novaklabosu.github.io/publication/yeakel-2012-vm/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>https://novaklabosu.github.io/publication/yeakel-2012-vm/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

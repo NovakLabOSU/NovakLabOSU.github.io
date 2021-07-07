@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Graduate | NovakLab</title>
+    <link>https://novaklabosu.github.io/tag/graduate/</link>
+      <atom:link href="https://novaklabosu.github.io/tag/graduate/index.xml" rel="self" type="application/rss+xml" />
+    <description>Graduate</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 NovakLab</copyright>
+    <image>
+      <url>https://novaklabosu.github.io/media/icon_hu0409958f157fc50d4e355b357a277bb5_195869_512x512_fill_lanczos_center_2.png</url>
+      <title>Graduate</title>
+      <link>https://novaklabosu.github.io/tag/graduate/</link>
+    </image>
+    
+    <item>
+      <title>Analytical Workflows (IB516)</title>
+      <link>https://novaklabosu.github.io/courses/analyticalworkflows/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://novaklabosu.github.io/courses/analyticalworkflows/</guid>
+      <description>&lt;p&gt;Have you proposed a modeling chapter for your dissertation but need support getting things up and running? Will you soon be sitting on a complete data set ready for your planned analyses but don&amp;rsquo;t know how or where to begin? Maybe you&amp;rsquo;re far along in a series of analyses and feel &amp;ldquo;lost in the trees.&amp;rdquo;&lt;/p&gt;
+&lt;p&gt;This course will help you with these challenges by practicing the development and implementation of efficient, reproducible workflows for your projects. Every project should (and can) be modular and fully automated, hence reproducible, portable and easily modified. Rerunning an analysis with a different set of parameters should (and can) be as simple as a few keystrokes. Regenerating all figures and tables for your manuscript after finding a typo in your code or dataset should (and can) be painless.&lt;/p&gt;
+&lt;p&gt;Efficient workflows start at project conception and end only if the project idea is itself a dead end. Thus, in this course, we&amp;rsquo;ll work to practice (1) refining and articulating project goals and benchmarks, (2) creating modular and automated analyses, and (3) using best practices in coding and project management. We&amp;rsquo;ll learn how to use &lt;em&gt;Git&lt;/em&gt;, &lt;em&gt;GitHub&lt;/em&gt;, &lt;em&gt;LaTeX&lt;/em&gt;, &lt;em&gt;Markdown&lt;/em&gt;, and high performance clusters (&lt;em&gt;HPCs&lt;/em&gt;). The instructors will mostly use &lt;em&gt;R&lt;/em&gt; within &lt;em&gt;RStudio&lt;/em&gt;, but users of other programming languages and text editors are welcome and encouraged. You will need either (1) a dataset and a visualization or analysis goal, or (2) a model or simulation (or sufficiently well-developed ideas for one). The use of other people&amp;rsquo;s data or published models is also encouraged, as needed.&lt;/p&gt;
+&lt;p&gt;All teaching materials for this course are available on &lt;a href=&#34;https://github.com/analyticalworkflows/TeachingMaterials&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;GitHub&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Theoretical Ecology (BI592)</title>
+      <link>https://novaklabosu.github.io/courses/theoreticalecology/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://novaklabosu.github.io/courses/theoreticalecology/</guid>
+      <description>&lt;p&gt;Undergraduate students who are interested in participating in this course should email me with a brief summary of their interests and goals for taking part.&lt;/p&gt;
+&lt;h5 id=&#34;course-description&#34;&gt;Course description&lt;/h5&gt;
+&lt;p&gt;This course entails a quantitative treatment of the central concepts and applications of theoretical ecology. Emphasis is on the mathematical analysis and modeling of single populations and multi-species interactions, and the integration of models with data. Topics include discrete- and continuous-time models of population growth, stochastic and deterministic processes of unstructured populations, the sustainability of harvested populations, numerical and analytical investigations of population and community invasibility and stability, and an introduction to model-fitting and comparison in an information-theoretic framework.&lt;/p&gt;
+&lt;h5 id=&#34;course-objectives&#34;&gt;Course objectives&lt;/h5&gt;
+&lt;p&gt;Our goals will be to (i) peel away at any apprehensions of mathematical equations you may have, (ii) enable you to independently interpret the classic and modern literature of theoretical ecology, and (iii) enable you to apply analytical and simulation-based approaches in evaluating ecological questions of your own interest and communicate these to an audience of your peers. You&amp;rsquo;ll complete the course with a working knowledge of &lt;em&gt;R&lt;/em&gt; and &lt;em&gt;Mathematica&lt;/em&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

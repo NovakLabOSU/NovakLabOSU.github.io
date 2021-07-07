@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jameal Samhouri | NovakLab</title>
+    <link>https://novaklabosu.github.io/authors/jameal-samhouri/</link>
+      <atom:link href="https://novaklabosu.github.io/authors/jameal-samhouri/index.xml" rel="self" type="application/rss+xml" />
+    <description>Jameal Samhouri</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 NovakLab</copyright><lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://novaklabosu.github.io/media/icon_hu0409958f157fc50d4e355b357a277bb5_195869_512x512_fill_lanczos_center_2.png</url>
+      <title>Jameal Samhouri</title>
+      <link>https://novaklabosu.github.io/authors/jameal-samhouri/</link>
+    </image>
+    
+    <item>
+      <title>Rapid and direct recoveries of predators and prey through synchronized ecosystem management</title>
+      <link>https://novaklabosu.github.io/publication/samhouri-2017-om/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://novaklabosu.github.io/publication/samhouri-2017-om/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ecosystem context and historical contingency in apex predator recoveries</title>
+      <link>https://novaklabosu.github.io/publication/stier-2016-yj/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://novaklabosu.github.io/publication/stier-2016-yj/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

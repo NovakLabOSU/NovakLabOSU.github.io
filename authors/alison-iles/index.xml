@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Alison Iles | NovakLab</title>
+    <link>https://novaklabosu.github.io/authors/alison-iles/</link>
+      <atom:link href="https://novaklabosu.github.io/authors/alison-iles/index.xml" rel="self" type="application/rss+xml" />
+    <description>Alison Iles</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 NovakLab</copyright><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://novaklabosu.github.io/authors/alison-iles/avatar_hucf3f59b89e23703b92ebddc090aca703_51988_270x270_fill_q75_lanczos_center.jpg</url>
+      <title>Alison Iles</title>
+      <link>https://novaklabosu.github.io/authors/alison-iles/</link>
+    </image>
+    
+    <item>
+      <title>The intrinsic predictability of ecological time series and its potential to guide forecasting</title>
+      <link>https://novaklabosu.github.io/publication/pennekamp-2019-uq/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://novaklabosu.github.io/publication/pennekamp-2019-uq/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Complexity increases predictability in allometrically constrained food webs</title>
+      <link>https://novaklabosu.github.io/publication/iles-2016-br/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://novaklabosu.github.io/publication/iles-2016-br/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An Online Database for Informing Ecological Network Models: http://kelpforest.ucsc.edu</title>
+      <link>https://novaklabosu.github.io/publication/beas-luna-2014-cv/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>https://novaklabosu.github.io/publication/beas-luna-2014-cv/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

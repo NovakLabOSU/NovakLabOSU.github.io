@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Stable isotopes | NovakLab</title>
+    <link>https://novaklabosu.github.io/tag/stable-isotopes/</link>
+      <atom:link href="https://novaklabosu.github.io/tag/stable-isotopes/index.xml" rel="self" type="application/rss+xml" />
+    <description>Stable isotopes</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 NovakLab</copyright><lastBuildDate>Fri, 01 Jan 2016 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://novaklabosu.github.io/media/icon_hu0409958f157fc50d4e355b357a277bb5_195869_512x512_fill_lanczos_center_2.png</url>
+      <title>Stable isotopes</title>
+      <link>https://novaklabosu.github.io/tag/stable-isotopes/</link>
+    </image>
+    
+    <item>
+      <title>Using stable isotopes to quantify species interaction strengths</title>
+      <link>https://novaklabosu.github.io/publication/shepard-2016/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://novaklabosu.github.io/publication/shepard-2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Merging Resource Availability with Isotope Mixing Models: The Role of Neutral Interaction Assumptions</title>
+      <link>https://novaklabosu.github.io/publication/yeakel-2011-ib/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>https://novaklabosu.github.io/publication/yeakel-2011-ib/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

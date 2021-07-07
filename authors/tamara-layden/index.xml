@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tamara Layden | NovakLab</title>
+    <link>https://novaklabosu.github.io/authors/tamara-layden/</link>
+      <atom:link href="https://novaklabosu.github.io/authors/tamara-layden/index.xml" rel="self" type="application/rss+xml" />
+    <description>Tamara Layden</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 NovakLab</copyright><lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://novaklabosu.github.io/authors/tamara-layden/avatar_hu4466f691ff40c6fd5f5806bcf925111c_13685_270x270_fill_q75_lanczos_center.jpg</url>
+      <title>Tamara Layden</title>
+      <link>https://novaklabosu.github.io/authors/tamara-layden/</link>
+    </image>
+    
+    <item>
+      <title>Trematode parasites exceed aquatic insect biomass in Oregon stream food webs</title>
+      <link>https://novaklabosu.github.io/publication/preston-2021-aa/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://novaklabosu.github.io/publication/preston-2021-aa/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>What drives interaction strengths in complex food webs? A test with feeding rates of a generalist stream predator</title>
+      <link>https://novaklabosu.github.io/publication/preston-2018-kt/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://novaklabosu.github.io/publication/preston-2018-kt/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Contributions of parasites to energy flow through a stream food web</title>
+      <link>https://novaklabosu.github.io/publication/layden-2017/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://novaklabosu.github.io/publication/layden-2017/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

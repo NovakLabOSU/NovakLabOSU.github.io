@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ben Halpern | NovakLab</title>
+    <link>https://novaklabosu.github.io/authors/ben-halpern/</link>
+      <atom:link href="https://novaklabosu.github.io/authors/ben-halpern/index.xml" rel="self" type="application/rss+xml" />
+    <description>Ben Halpern</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 NovakLab</copyright><lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://novaklabosu.github.io/media/icon_hu0409958f157fc50d4e355b357a277bb5_195869_512x512_fill_lanczos_center_2.png</url>
+      <title>Ben Halpern</title>
+      <link>https://novaklabosu.github.io/authors/ben-halpern/</link>
+    </image>
+    
+    <item>
+      <title>Rapid and direct recoveries of predators and prey through synchronized ecosystem management</title>
+      <link>https://novaklabosu.github.io/publication/samhouri-2017-om/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://novaklabosu.github.io/publication/samhouri-2017-om/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Understanding and predicting ecological dynamics: are major surprises inevitable</title>
+      <link>https://novaklabosu.github.io/publication/doak-2008-kx/</link>
+      <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
+      <guid>https://novaklabosu.github.io/publication/doak-2008-kx/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

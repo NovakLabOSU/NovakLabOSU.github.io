@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Higher-order effects | NovakLab</title>
+    <link>https://novaklabosu.github.io/tag/higher-order-effects/</link>
+      <atom:link href="https://novaklabosu.github.io/tag/higher-order-effects/index.xml" rel="self" type="application/rss+xml" />
+    <description>Higher-order effects</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 NovakLab</copyright><lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://novaklabosu.github.io/media/icon_hu0409958f157fc50d4e355b357a277bb5_195869_512x512_fill_lanczos_center_2.png</url>
+      <title>Higher-order effects</title>
+      <link>https://novaklabosu.github.io/tag/higher-order-effects/</link>
+    </image>
+    
+    <item>
+      <title>Hidden layers of density dependence in consumer feeding rates</title>
+      <link>https://novaklabosu.github.io/publication/stouffer-2021-aa/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://novaklabosu.github.io/publication/stouffer-2021-aa/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Experimental demonstration of a trophic cascade in the Galápagos rocky subtidal:  Effects of consumer identity and behavior</title>
+      <link>https://novaklabosu.github.io/publication/witman-2017-jm/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://novaklabosu.github.io/publication/witman-2017-jm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Quantifying predator dependence in the functional response of generalist predators</title>
+      <link>https://novaklabosu.github.io/publication/novak-2017-mo/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://novaklabosu.github.io/publication/novak-2017-mo/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects | NovakLab</title>
+    <link>https://novaklabosu.github.io/project/</link>
+      <atom:link href="https://novaklabosu.github.io/project/index.xml" rel="self" type="application/rss+xml" />
+    <description>Projects</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 NovakLab</copyright><lastBuildDate>Thu, 01 Apr 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://novaklabosu.github.io/media/icon_hu0409958f157fc50d4e355b357a277bb5_195869_512x512_fill_lanczos_center_2.png</url>
+      <title>Projects</title>
+      <link>https://novaklabosu.github.io/project/</link>
+    </image>
+    
+    <item>
+      <title>Dynamics</title>
+      <link>https://novaklabosu.github.io/project/dynamics/</link>
+      <pubDate>Thu, 01 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>https://novaklabosu.github.io/project/dynamics/</guid>
+      <description>&lt;p&gt;A key challenge for ecology is the development of Theory to guide our responses to ongoing environmental change.
+To more effectively inform conservation and resource-use policy we need to understand the processes by which species – and the interactions among them – affect the dynamics of their communities and the functioning of their ecosystems.
+While we have made tremendous advances in our understanding, there still exist large gaps between mathematical theory and our empirical knowledge of nature&amp;rsquo;s complex ecological systems.
+&lt;em&gt;How and when do species&#39; direct and indirect interactions affect the structure, dynamics, and functioning of their communities?&lt;/em&gt;
+&lt;em&gt;How well can we predict the response of ecological systems to acute and chronic perturbations, including when these amount to only subtle changes in the environment?&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;To date, our contributions to answering questions like these largely fall into two categories:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Applying &lt;a href=&#34;https://novaklabosu.github.io/tag/community-matrix&#34;&gt;community matrix methods&lt;/a&gt; to learn how the reticulate nature of species interacton networks (i.e. the counteracting feedbacks of direct and indirect species effects) and uncertainties in the pairwise strength of species interactions (be it due to estimation error or natural variation) influence our ability to understand and predict how species respond to chronic press perturbations; and&lt;/li&gt;
+&lt;li&gt;Using time-series data, field experiments, and simple models of population dynamics to characterize species- and community dynamics, test ecological theory on how species interactions affect population sizes, and better understand the processes that underlie these effects.&lt;/li&gt;
+&lt;/ol&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Individual variation</title>
+      <link>https://novaklabosu.github.io/project/intrasppvar/</link>
+      <pubDate>Thu, 01 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>https://novaklabosu.github.io/project/intrasppvar/</guid>
+      <description>&lt;p&gt;For us, &lt;em&gt;Homo sapiens&lt;/em&gt;, it is clear that what we eat and how we prefer to eat some things over others affects not only our own bodies but collectively has important ramifications for the ways we, as individuals, affect the world around us.
+Not surprisingly, other animals who are &amp;ldquo;generalist&amp;rdquo; predators as a population exhibit diet specialization at the individual level as well,
+but the scope, patterns, and community-level consequences of this form of intraspecific variation remain poorly resolved.
+The goal is to go beyond appropriately documenting and describing the variation that exists among individuals,
+to understanding when (and when not) its consideration is necessary.
+This is particularly challenging given the reticulate and potentially nonlinear nature of species interactions in species-rich systems.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Interaction strengths</title>
+      <link>https://novaklabosu.github.io/project/intxnstrngth/</link>
+      <pubDate>Thu, 01 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>https://novaklabosu.github.io/project/intxnstrngth/</guid>
+      <description>&lt;p&gt;Efforts to characterize and estimate the functional forms and strengths of species interactions in species-rich communities are hampered by the multitude of direct and indirect interactions such systems exhibit.
+Empirical insights have also been constrained by an assumption that the feeding behaviors of specialist predators are representative of the behaviors exhibited by generalist predators, which are far more common in nature.
+This is largely because logistical and statistical constraints have limited almost all studies to species-poor systems of single predator species interacting with only one primary prey species.
+Even inherently generalist predators have thereby been reduced to effective specialists, whether in manipulative experiments or in time-series analyses.
+New ways to quantify species interaction strengths are needed to identify keystone species,
+inform the development of mathematical models,
+and further our understanding of the processes that regulate community structure and dynamics.&lt;/p&gt;
+&lt;p&gt;Much of our work to date has sought to develop an
+&lt;a href=&#34;https://novaklabosu.github.io/tag/observational-approach&#34;&gt;observational approach&lt;/a&gt;
+with which to overcome many of the aforementioned limitations.
+The approach relies on
+(1) &lt;em&gt;predator feeding surveys&lt;/em&gt; for estimating the proportions of predator indivdiuals who are caught in the act of feeding on different prey categories (i.e. species), and
+(2) estimates of &lt;em&gt;prey detection times&lt;/em&gt;, typically derived from laboratory experiments,
+that determine the probability of observing a feeding event when conducting a feeding survey.
+These data allow us to estimate a predator population&amp;rsquo;s (or predator indivdiual&amp;rsquo;s) prey-specific feeding rates which,
+in conjuction with (3) estimates of &lt;em&gt;prey and predator abundances&lt;/em&gt;,
+allow us characterize the functional forms of their interactions.
+We have applied the approach in both stream and intertidal communities.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Intertidal</title>
+      <link>https://novaklabosu.github.io/project/intertidal/</link>
+      <pubDate>Thu, 01 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>https://novaklabosu.github.io/project/intertidal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Streams</title>
+      <link>https://novaklabosu.github.io/project/streams/</link>
+      <pubDate>Thu, 01 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>https://novaklabosu.github.io/project/streams/</guid>
+      <description>&lt;p&gt;If you&amp;rsquo;re interested in reading more, please see this &lt;a href=&#34;https://novaklabosu.github.io/other/NovakLab_StreamEcologySummary_2019.pdf&#34;&gt;2019 lay summary&lt;/a&gt; of our stream ecology research.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Subtidal</title>
+      <link>https://novaklabosu.github.io/project/subtidal/</link>
+      <pubDate>Thu, 01 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>https://novaklabosu.github.io/project/subtidal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Theory</title>
+      <link>https://novaklabosu.github.io/project/theory/</link>
+      <pubDate>Thu, 01 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>https://novaklabosu.github.io/project/theory/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

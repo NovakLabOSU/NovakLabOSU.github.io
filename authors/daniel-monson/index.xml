@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Daniel Monson | NovakLab</title>
+    <link>https://novaklabosu.github.io/authors/daniel-monson/</link>
+      <atom:link href="https://novaklabosu.github.io/authors/daniel-monson/index.xml" rel="self" type="application/rss+xml" />
+    <description>Daniel Monson</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 NovakLab</copyright><lastBuildDate>Tue, 01 Jan 2008 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://novaklabosu.github.io/media/icon_hu0409958f157fc50d4e355b357a277bb5_195869_512x512_fill_lanczos_center_2.png</url>
+      <title>Daniel Monson</title>
+      <link>https://novaklabosu.github.io/authors/daniel-monson/</link>
+    </image>
+    
+    <item>
+      <title>Understanding and predicting ecological dynamics: are major surprises inevitable</title>
+      <link>https://novaklabosu.github.io/publication/doak-2008-kx/</link>
+      <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
+      <guid>https://novaklabosu.github.io/publication/doak-2008-kx/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

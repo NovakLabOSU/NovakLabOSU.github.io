@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>NovakLab</title>
+    <link>https://novaklabosu.github.io/authors/</link>
+      <atom:link href="https://novaklabosu.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
+    <description>NovakLab</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 NovakLab</copyright><lastBuildDate>Sun, 20 Jun 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://novaklabosu.github.io/media/icon_hu0409958f157fc50d4e355b357a277bb5_195869_512x512_fill_lanczos_center_2.png</url>
+      <title>NovakLab</title>
+      <link>https://novaklabosu.github.io/authors/</link>
+    </image>
+    
+    <item>
+      <title>Join us</title>
+      <link>https://novaklabosu.github.io/authors/admin/joinus/</link>
+      <pubDate>Thu, 01 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>https://novaklabosu.github.io/authors/admin/joinus/</guid>
+      <description>&lt;p&gt;I welcome applications from students and postdocs interested in developing projects at the interface of empirical and theoretical ecology. 
+While the empirical side of my own research is primarily focused on aquatic systems (intertidal, subtidal and streams),
+I&amp;rsquo;m happy to advise students working on whatever system is best-suited for answering their research questions.&lt;/p&gt;
+&lt;h3 id=&#34;graduate-students&#34;&gt;Graduate students&lt;/h3&gt;
+&lt;p&gt;If you&amp;rsquo;re interested in joining the lab,
+please send me an email to tell me about your general research interests,
+what you&amp;rsquo;d like to get out of grad-school,
+and why you&amp;rsquo;d like to join my lab in particular.  
+(Chances are that your specific interests will change several times during your first years of grad-school,
+so don&amp;rsquo;t worry if you don&amp;rsquo;t have a project all figured-out. 
+Please just help me get a good sense of the type of topics you&amp;rsquo;d like to work on,
+what motivates you to work on them,
+and what you&amp;rsquo;d like to come away with at the end in terms of your &amp;ldquo;tool kit&amp;rdquo;.)  Please also attach a CV/resume and contact information for three references.
+The application deadline for our department is mid-December.
+Our department guarantees 5 years of support to all its PhD students in the form of TAships.
+Nevertheless, I strongly encourage you to have applied for the various pre-doctoral fellowships,
+most of which have earlier deadlines.
+More information on the department&amp;rsquo;s grad program and application process can be found on our department&amp;rsquo;s website.&lt;/p&gt;
+&lt;h3 id=&#34;undergraduate-students&#34;&gt;Undergraduate students&lt;/h3&gt;
+&lt;p&gt;Undergraduates become involved in our research through a variety of ways,
+ranging from volunteer opportunities, paid assistantships,
+as well as independent research experiences.
+We are actively fostering diversity within the lab,
+so I encourage all interested students to contact me (or the lab’s graduate students and postdocs).
+Volunteer and paid assistantship opportunities often involve working with myself or a graduate student supporting the research projects of the lab.
+Volunteers have often ended up becoming paid research assistants or have pursued their own independent research projects (particularly when they’ve joined the lab early in their undergraduate careers).
+Independent research experiences typically involve student-led projects for transcript credit (incl. transcript-visible “distinction in research”),
+fulfilling Honors requirements, or academic- and/or summer quarter research supported by scholarships or fellowships
+(e.g., URISC, SURE, etc.).
+Note that you don’t need to have a project in mind before joining the lab, but please do articulate why you&amp;rsquo;re interested in our lab when you contact us.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://novaklabosu.github.io/pics/NovakLab_2017.jpg&#34; alt=&#34;NovakLab2017&#34;&gt;
+&lt;img src=&#34;https://novaklabosu.github.io/pics/NovakLab_2014.jpg&#34; alt=&#34;NovakLab2014&#34;&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

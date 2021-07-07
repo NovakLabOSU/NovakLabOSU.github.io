@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sam Sturman | NovakLab</title>
+    <link>https://novaklabosu.github.io/authors/jonny-schwartz/</link>
+      <atom:link href="https://novaklabosu.github.io/authors/jonny-schwartz/index.xml" rel="self" type="application/rss+xml" />
+    <description>Sam Sturman</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 NovakLab</copyright>
+    <image>
+      <url>https://novaklabosu.github.io/authors/jonny-schwartz/avatar_hu98f6d1516330b92800ddc122ad5404d6_5769_270x270_fill_q75_lanczos_center.jpg</url>
+      <title>Sam Sturman</title>
+      <link>https://novaklabosu.github.io/authors/jonny-schwartz/</link>
+    </image>
+    
+  </channel>
+</rss>

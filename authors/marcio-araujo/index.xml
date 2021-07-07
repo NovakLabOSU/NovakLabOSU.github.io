@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Márcio Araújo | NovakLab</title>
+    <link>https://novaklabosu.github.io/authors/marcio-araujo/</link>
+      <atom:link href="https://novaklabosu.github.io/authors/marcio-araujo/index.xml" rel="self" type="application/rss+xml" />
+    <description>Márcio Araújo</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 NovakLab</copyright><lastBuildDate>Sat, 01 Jan 2011 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://novaklabosu.github.io/media/icon_hu0409958f157fc50d4e355b357a277bb5_195869_512x512_fill_lanczos_center_2.png</url>
+      <title>Márcio Araújo</title>
+      <link>https://novaklabosu.github.io/authors/marcio-araujo/</link>
+    </image>
+    
+    <item>
+      <title>The Effect of Travel Loss on Evolutionarily Stable Distributions of Populations in Space</title>
+      <link>https://novaklabosu.github.io/publication/de-angelis-2011-vp/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>https://novaklabosu.github.io/publication/de-angelis-2011-vp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Why intraspecific trait variation matters in community ecology</title>
+      <link>https://novaklabosu.github.io/publication/bolnick-2011-zf/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>https://novaklabosu.github.io/publication/bolnick-2011-zf/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

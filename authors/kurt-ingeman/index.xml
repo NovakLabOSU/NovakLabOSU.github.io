@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Kurt Ingeman | NovakLab</title>
+    <link>https://novaklabosu.github.io/authors/kurt-ingeman/</link>
+      <atom:link href="https://novaklabosu.github.io/authors/kurt-ingeman/index.xml" rel="self" type="application/rss+xml" />
+    <description>Kurt Ingeman</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 NovakLab</copyright><lastBuildDate>Fri, 01 Jan 2016 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://novaklabosu.github.io/authors/kurt-ingeman/avatar_hu1604e75f2b7a8706b9a864f0f554c167_1463663_270x270_fill_q75_lanczos_center.jpg</url>
+      <title>Kurt Ingeman</title>
+      <link>https://novaklabosu.github.io/authors/kurt-ingeman/</link>
+    </image>
+    
+    <item>
+      <title>Effects of predator introductions on population and community dynamics</title>
+      <link>https://novaklabosu.github.io/publication/ingeman-2016-aa/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://novaklabosu.github.io/publication/ingeman-2016-aa/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

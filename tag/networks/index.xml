@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Networks | NovakLab</title>
+    <link>https://novaklabosu.github.io/tag/networks/</link>
+      <atom:link href="https://novaklabosu.github.io/tag/networks/index.xml" rel="self" type="application/rss+xml" />
+    <description>Networks</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 NovakLab</copyright><lastBuildDate>Tue, 01 Jun 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://novaklabosu.github.io/media/icon_hu0409958f157fc50d4e355b357a277bb5_195869_512x512_fill_lanczos_center_2.png</url>
+      <title>Networks</title>
+      <link>https://novaklabosu.github.io/tag/networks/</link>
+    </image>
+    
+    <item>
+      <title>The predictability of qualitative food web dynamics in response to extinction and invasion</title>
+      <link>https://novaklabosu.github.io/publication/rockow-2021/</link>
+      <pubDate>Tue, 01 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>https://novaklabosu.github.io/publication/rockow-2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Exact probabilities for the indeterminacy of complex networks as perceived through press perturbations</title>
+      <link>https://novaklabosu.github.io/publication/koslicki-2018-zm/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://novaklabosu.github.io/publication/koslicki-2018-zm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Characterizing species interactions to understand press perturbations: What is the community matrix?</title>
+      <link>https://novaklabosu.github.io/publication/novak-2016-og/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://novaklabosu.github.io/publication/novak-2016-og/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Complexity increases predictability in allometrically constrained food webs</title>
+      <link>https://novaklabosu.github.io/publication/iles-2016-br/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://novaklabosu.github.io/publication/iles-2016-br/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An Online Database for Informing Ecological Network Models: http://kelpforest.ucsc.edu</title>
+      <link>https://novaklabosu.github.io/publication/beas-luna-2014-cv/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>https://novaklabosu.github.io/publication/beas-luna-2014-cv/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Complex networks in kelp forest ecosystems - Visualizing big data</title>
+      <link>https://novaklabosu.github.io/publication/moulvi-2014/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>https://novaklabosu.github.io/publication/moulvi-2014/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Probabilistic patterns of interaction: the effects of link-strength variability on food web structure</title>
+      <link>https://novaklabosu.github.io/publication/yeakel-2012-vm/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>https://novaklabosu.github.io/publication/yeakel-2012-vm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Structure and mechanism of diet specialisation: testing models of individual variation in resource use with sea otters</title>
+      <link>https://novaklabosu.github.io/publication/tinker-2012-xd/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>https://novaklabosu.github.io/publication/tinker-2012-xd/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Predicting community responses to perturbations in the face of imperfect knowledge and network complexity</title>
+      <link>https://novaklabosu.github.io/publication/novak-2011-qh/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>https://novaklabosu.github.io/publication/novak-2011-qh/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Trophic omnivory and the structure, strength, and nonlinear nature of species interactions across a productivity gradient</title>
+      <link>https://novaklabosu.github.io/publication/novak-2008-wo/</link>
+      <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
+      <guid>https://novaklabosu.github.io/publication/novak-2008-wo/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

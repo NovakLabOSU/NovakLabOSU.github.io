@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jeremy Henderson | NovakLab</title>
+    <link>https://novaklabosu.github.io/authors/jeremy-henderson/</link>
+      <atom:link href="https://novaklabosu.github.io/authors/jeremy-henderson/index.xml" rel="self" type="application/rss+xml" />
+    <description>Jeremy Henderson</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 NovakLab</copyright><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://novaklabosu.github.io/authors/jeremy-henderson/avatar_hua8c43bd267c5be2257e171f72f4b22c3_8520_270x270_fill_q75_lanczos_center.jpg</url>
+      <title>Jeremy Henderson</title>
+      <link>https://novaklabosu.github.io/authors/jeremy-henderson/</link>
+    </image>
+    
+    <item>
+      <title>Temporal shifts in intraspecific and interspecific diet variation among 3 stream predators</title>
+      <link>https://novaklabosu.github.io/publication/falke-2020-aa/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://novaklabosu.github.io/publication/falke-2020-aa/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Food-web interaction strength distributions are conserved by greater variation between than within predator--prey pairs</title>
+      <link>https://novaklabosu.github.io/publication/preston-2019-ab/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://novaklabosu.github.io/publication/preston-2019-ab/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>What drives interaction strengths in complex food webs? A test with feeding rates of a generalist stream predator</title>
+      <link>https://novaklabosu.github.io/publication/preston-2018-kt/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://novaklabosu.github.io/publication/preston-2018-kt/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Using Survival Models to Estimate Invertebrate Prey Identification Times in a Generalist Stream Fish</title>
+      <link>https://novaklabosu.github.io/publication/preston-2017-bh/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://novaklabosu.github.io/publication/preston-2017-bh/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

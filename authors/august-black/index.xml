@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>August Black | NovakLab</title>
+    <link>https://novaklabosu.github.io/authors/august-black/</link>
+      <atom:link href="https://novaklabosu.github.io/authors/august-black/index.xml" rel="self" type="application/rss+xml" />
+    <description>August Black</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 NovakLab</copyright><lastBuildDate>Wed, 01 Jan 2014 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://novaklabosu.github.io/media/icon_hu0409958f157fc50d4e355b357a277bb5_195869_512x512_fill_lanczos_center_2.png</url>
+      <title>August Black</title>
+      <link>https://novaklabosu.github.io/authors/august-black/</link>
+    </image>
+    
+    <item>
+      <title>An Online Database for Informing Ecological Network Models: http://kelpforest.ucsc.edu</title>
+      <link>https://novaklabosu.github.io/publication/beas-luna-2014-cv/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>https://novaklabosu.github.io/publication/beas-luna-2014-cv/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

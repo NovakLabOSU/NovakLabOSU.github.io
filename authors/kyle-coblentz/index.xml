@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Kyle Coblentz | NovakLab</title>
+    <link>https://novaklabosu.github.io/authors/kyle-coblentz/</link>
+      <atom:link href="https://novaklabosu.github.io/authors/kyle-coblentz/index.xml" rel="self" type="application/rss+xml" />
+    <description>Kyle Coblentz</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 NovakLab</copyright><lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://novaklabosu.github.io/authors/kyle-coblentz/avatar_hu2e8a70324b7a28753365ad4dbce29b17_50165_270x270_fill_q75_lanczos_center.jpg</url>
+      <title>Kyle Coblentz</title>
+      <link>https://novaklabosu.github.io/authors/kyle-coblentz/</link>
+    </image>
+    
+    <item>
+      <title>Quantifying the effects of intraspecific variation on predator feeding rates through nonlinear averaging</title>
+      <link>https://novaklabosu.github.io/publication/coblentz-2021/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://novaklabosu.github.io/publication/coblentz-2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Candidate causes, consequences, and estimation of individual diet specialization</title>
+      <link>https://novaklabosu.github.io/publication/coblentz-2018-aa/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://novaklabosu.github.io/publication/coblentz-2018-aa/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Long-Term Studies Contribute Disproportionately to Ecology and Policy</title>
+      <link>https://novaklabosu.github.io/publication/hughes-2017-uq/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://novaklabosu.github.io/publication/hughes-2017-uq/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Quantifying predator dependence in the functional response of generalist predators</title>
+      <link>https://novaklabosu.github.io/publication/novak-2017-mo/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://novaklabosu.github.io/publication/novak-2017-mo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The application of Bayesian hierarchical models to quantify individual diet specialization</title>
+      <link>https://novaklabosu.github.io/publication/coblentz-2017-gq/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://novaklabosu.github.io/publication/coblentz-2017-gq/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

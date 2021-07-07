@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Franz Smith | NovakLab</title>
+    <link>https://novaklabosu.github.io/authors/franz-smith/</link>
+      <atom:link href="https://novaklabosu.github.io/authors/franz-smith/index.xml" rel="self" type="application/rss+xml" />
+    <description>Franz Smith</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 NovakLab</copyright><lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://novaklabosu.github.io/media/icon_hu0409958f157fc50d4e355b357a277bb5_195869_512x512_fill_lanczos_center_2.png</url>
+      <title>Franz Smith</title>
+      <link>https://novaklabosu.github.io/authors/franz-smith/</link>
+    </image>
+    
+    <item>
+      <title>Experimental demonstration of a trophic cascade in the Galápagos rocky subtidal:  Effects of consumer identity and behavior</title>
+      <link>https://novaklabosu.github.io/publication/witman-2017-jm/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://novaklabosu.github.io/publication/witman-2017-jm/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

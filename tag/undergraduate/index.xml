@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Undergraduate | NovakLab</title>
+    <link>https://novaklabosu.github.io/tag/undergraduate/</link>
+      <atom:link href="https://novaklabosu.github.io/tag/undergraduate/index.xml" rel="self" type="application/rss+xml" />
+    <description>Undergraduate</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 NovakLab</copyright>
+    <image>
+      <url>https://novaklabosu.github.io/media/icon_hu0409958f157fc50d4e355b357a277bb5_195869_512x512_fill_lanczos_center_2.png</url>
+      <title>Undergraduate</title>
+      <link>https://novaklabosu.github.io/tag/undergraduate/</link>
+    </image>
+    
+    <item>
+      <title>Ecology (BI370)</title>
+      <link>https://novaklabosu.github.io/courses/ecology/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://novaklabosu.github.io/courses/ecology/</guid>
+      <description>&lt;h5 id=&#34;course-description&#34;&gt;Course description&lt;/h5&gt;
+&lt;p&gt;This ecology course consists of an introduction to the scientific study of the processes that shape the distribution, structure and dynamics of species and their communities. Topics include the methods and approaches of ecological research, the interactions between species and their abiotic and biotic environments, the distribution of biodiversity across the globe, the processes regulating population growth, species extinctions and invasions and their implications for conservation and the maintenance of ecosystem services, and the varied and profound impacts of humans on ecological systems.&lt;/p&gt;
+&lt;h5 id=&#34;course-objectives&#34;&gt;Course objectives&lt;/h5&gt;
+&lt;p&gt;By the end of this course, you will be able to: (i) discuss how organisms interact with their biotic and abiotic environments, (ii) infer the processes that structure patterns of biodiversity from local to global scales, (iii) explain how ecological systems are dynamic in space and time based on knowledge of process, (iv) evaluate climate change and the future of biodiversity in the context of Earth’s past record of climate and life, (v) inform others of how anthropogenic activities are impacting the structure and functioning of natural systems, (vi) valuate alternative strategies for the conservation of biodiversity and ecosystem services, and (vii) describe the fundamental role of quantitative reasoning (statistics and modeling) in ecology.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Marine Ecology (BI351)</title>
+      <link>https://novaklabosu.github.io/courses/marineecology/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://novaklabosu.github.io/courses/marineecology/</guid>
+      <description>&lt;h5 id=&#34;course-description&#34;&gt;Course description&lt;/h5&gt;
+&lt;p&gt;This course consists of an introduction to the physical, chemical and biological aspects of life in the oceans, with an ecological emphasis. Topics include the methods of scientific inquiry, the interactions between organisms and their abiotic and biotic environments, the processes regulating populations and communities, local to global patterns of biodiversity, and the varied and profound impacts that we humans are having on all marine systems.&lt;/p&gt;
+&lt;h5 id=&#34;course-objectives&#34;&gt;Course objectives&lt;/h5&gt;
+&lt;p&gt;By the end of this course, you will be able to: (i) disentangle the processes that structure patterns of marine biodiversity from local to global scales, (ii) evaluate ongoing environmental changes facing marine systems and their implications for future biodiversity, (iii) inform others of how anthropogenic activities are impacting the structure and functioning of marine systems, (iv) evaluate strategies for the conservation of marine biodiversity, and (v) appreciate and describe the amazing diversity of lifeforms that inhabit marine environments.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Dan Doak | NovakLab</title>
+    <link>https://novaklabosu.github.io/authors/dan-doak/</link>
+      <atom:link href="https://novaklabosu.github.io/authors/dan-doak/index.xml" rel="self" type="application/rss+xml" />
+    <description>Dan Doak</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 NovakLab</copyright><lastBuildDate>Fri, 01 Jan 2016 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://novaklabosu.github.io/media/icon_hu0409958f157fc50d4e355b357a277bb5_195869_512x512_fill_lanczos_center_2.png</url>
+      <title>Dan Doak</title>
+      <link>https://novaklabosu.github.io/authors/dan-doak/</link>
+    </image>
+    
+    <item>
+      <title>Characterizing species interactions to understand press perturbations: What is the community matrix?</title>
+      <link>https://novaklabosu.github.io/publication/novak-2016-og/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://novaklabosu.github.io/publication/novak-2016-og/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Predicting community responses to perturbations in the face of imperfect knowledge and network complexity</title>
+      <link>https://novaklabosu.github.io/publication/novak-2011-qh/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>https://novaklabosu.github.io/publication/novak-2011-qh/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Understanding and predicting ecological dynamics: are major surprises inevitable</title>
+      <link>https://novaklabosu.github.io/publication/doak-2008-kx/</link>
+      <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
+      <guid>https://novaklabosu.github.io/publication/doak-2008-kx/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

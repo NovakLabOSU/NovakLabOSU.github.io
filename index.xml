@@ -1,0 +1,711 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>NovakLab</title>
+    <link>https://novaklabosu.github.io/</link>
+      <atom:link href="https://novaklabosu.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <description>NovakLab</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 NovakLab</copyright><lastBuildDate>Sun, 20 Jun 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://novaklabosu.github.io/media/icon_hu0409958f157fc50d4e355b357a277bb5_195869_512x512_fill_lanczos_center_2.png</url>
+      <title>NovakLab</title>
+      <link>https://novaklabosu.github.io/</link>
+    </image>
+    
+    <item>
+      <title>Collective behaviour can stabilize ecosystems</title>
+      <link>https://novaklabosu.github.io/publication/dalziel-2021/</link>
+      <pubDate>Sun, 20 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>https://novaklabosu.github.io/publication/dalziel-2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Geometric complexity and the information-theoretic comparison of functional-response models</title>
+      <link>https://novaklabosu.github.io/publication/novak-2021-ab/</link>
+      <pubDate>Sun, 20 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>https://novaklabosu.github.io/publication/novak-2021-ab/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The predictability of qualitative food web dynamics in response to extinction and invasion</title>
+      <link>https://novaklabosu.github.io/publication/rockow-2021/</link>
+      <pubDate>Tue, 01 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>https://novaklabosu.github.io/publication/rockow-2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cheyenne awarded NSF Graduate Research Fellowship!</title>
+      <link>https://novaklabosu.github.io/post/cheyenne-grfp/</link>
+      <pubDate>Thu, 01 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>https://novaklabosu.github.io/post/cheyenne-grfp/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://science.oregonstate.edu/impact/2021/04/biology-students-win-2021-nsf-graduate-research-fellowships&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://science.oregonstate.edu/impact/2021/04/biology-students-win-2021-nsf-graduate-research-fellowships&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Dynamics</title>
+      <link>https://novaklabosu.github.io/project/dynamics/</link>
+      <pubDate>Thu, 01 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>https://novaklabosu.github.io/project/dynamics/</guid>
+      <description>&lt;p&gt;A key challenge for ecology is the development of Theory to guide our responses to ongoing environmental change.
+To more effectively inform conservation and resource-use policy we need to understand the processes by which species – and the interactions among them – affect the dynamics of their communities and the functioning of their ecosystems.
+While we have made tremendous advances in our understanding, there still exist large gaps between mathematical theory and our empirical knowledge of nature&amp;rsquo;s complex ecological systems.
+&lt;em&gt;How and when do species&#39; direct and indirect interactions affect the structure, dynamics, and functioning of their communities?&lt;/em&gt;
+&lt;em&gt;How well can we predict the response of ecological systems to acute and chronic perturbations, including when these amount to only subtle changes in the environment?&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;To date, our contributions to answering questions like these largely fall into two categories:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Applying &lt;a href=&#34;https://novaklabosu.github.io/tag/community-matrix&#34;&gt;community matrix methods&lt;/a&gt; to learn how the reticulate nature of species interacton networks (i.e. the counteracting feedbacks of direct and indirect species effects) and uncertainties in the pairwise strength of species interactions (be it due to estimation error or natural variation) influence our ability to understand and predict how species respond to chronic press perturbations; and&lt;/li&gt;
+&lt;li&gt;Using time-series data, field experiments, and simple models of population dynamics to characterize species- and community dynamics, test ecological theory on how species interactions affect population sizes, and better understand the processes that underlie these effects.&lt;/li&gt;
+&lt;/ol&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Hello World</title>
+      <link>https://novaklabosu.github.io/post/hello-world/</link>
+      <pubDate>Thu, 01 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>https://novaklabosu.github.io/post/hello-world/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Individual variation</title>
+      <link>https://novaklabosu.github.io/project/intrasppvar/</link>
+      <pubDate>Thu, 01 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>https://novaklabosu.github.io/project/intrasppvar/</guid>
+      <description>&lt;p&gt;For us, &lt;em&gt;Homo sapiens&lt;/em&gt;, it is clear that what we eat and how we prefer to eat some things over others affects not only our own bodies but collectively has important ramifications for the ways we, as individuals, affect the world around us.
+Not surprisingly, other animals who are &amp;ldquo;generalist&amp;rdquo; predators as a population exhibit diet specialization at the individual level as well,
+but the scope, patterns, and community-level consequences of this form of intraspecific variation remain poorly resolved.
+The goal is to go beyond appropriately documenting and describing the variation that exists among individuals,
+to understanding when (and when not) its consideration is necessary.
+This is particularly challenging given the reticulate and potentially nonlinear nature of species interactions in species-rich systems.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Interaction strengths</title>
+      <link>https://novaklabosu.github.io/project/intxnstrngth/</link>
+      <pubDate>Thu, 01 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>https://novaklabosu.github.io/project/intxnstrngth/</guid>
+      <description>&lt;p&gt;Efforts to characterize and estimate the functional forms and strengths of species interactions in species-rich communities are hampered by the multitude of direct and indirect interactions such systems exhibit.
+Empirical insights have also been constrained by an assumption that the feeding behaviors of specialist predators are representative of the behaviors exhibited by generalist predators, which are far more common in nature.
+This is largely because logistical and statistical constraints have limited almost all studies to species-poor systems of single predator species interacting with only one primary prey species.
+Even inherently generalist predators have thereby been reduced to effective specialists, whether in manipulative experiments or in time-series analyses.
+New ways to quantify species interaction strengths are needed to identify keystone species,
+inform the development of mathematical models,
+and further our understanding of the processes that regulate community structure and dynamics.&lt;/p&gt;
+&lt;p&gt;Much of our work to date has sought to develop an
+&lt;a href=&#34;https://novaklabosu.github.io/tag/observational-approach&#34;&gt;observational approach&lt;/a&gt;
+with which to overcome many of the aforementioned limitations.
+The approach relies on
+(1) &lt;em&gt;predator feeding surveys&lt;/em&gt; for estimating the proportions of predator indivdiuals who are caught in the act of feeding on different prey categories (i.e. species), and
+(2) estimates of &lt;em&gt;prey detection times&lt;/em&gt;, typically derived from laboratory experiments,
+that determine the probability of observing a feeding event when conducting a feeding survey.
+These data allow us to estimate a predator population&amp;rsquo;s (or predator indivdiual&amp;rsquo;s) prey-specific feeding rates which,
+in conjuction with (3) estimates of &lt;em&gt;prey and predator abundances&lt;/em&gt;,
+allow us characterize the functional forms of their interactions.
+We have applied the approach in both stream and intertidal communities.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Intertidal</title>
+      <link>https://novaklabosu.github.io/project/intertidal/</link>
+      <pubDate>Thu, 01 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>https://novaklabosu.github.io/project/intertidal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Join us</title>
+      <link>https://novaklabosu.github.io/authors/admin/joinus/</link>
+      <pubDate>Thu, 01 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>https://novaklabosu.github.io/authors/admin/joinus/</guid>
+      <description>&lt;p&gt;I welcome applications from students and postdocs interested in developing projects at the interface of empirical and theoretical ecology. 
+While the empirical side of my own research is primarily focused on aquatic systems (intertidal, subtidal and streams),
+I&amp;rsquo;m happy to advise students working on whatever system is best-suited for answering their research questions.&lt;/p&gt;
+&lt;h3 id=&#34;graduate-students&#34;&gt;Graduate students&lt;/h3&gt;
+&lt;p&gt;If you&amp;rsquo;re interested in joining the lab,
+please send me an email to tell me about your general research interests,
+what you&amp;rsquo;d like to get out of grad-school,
+and why you&amp;rsquo;d like to join my lab in particular.  
+(Chances are that your specific interests will change several times during your first years of grad-school,
+so don&amp;rsquo;t worry if you don&amp;rsquo;t have a project all figured-out. 
+Please just help me get a good sense of the type of topics you&amp;rsquo;d like to work on,
+what motivates you to work on them,
+and what you&amp;rsquo;d like to come away with at the end in terms of your &amp;ldquo;tool kit&amp;rdquo;.)  Please also attach a CV/resume and contact information for three references.
+The application deadline for our department is mid-December.
+Our department guarantees 5 years of support to all its PhD students in the form of TAships.
+Nevertheless, I strongly encourage you to have applied for the various pre-doctoral fellowships,
+most of which have earlier deadlines.
+More information on the department&amp;rsquo;s grad program and application process can be found on our department&amp;rsquo;s website.&lt;/p&gt;
+&lt;h3 id=&#34;undergraduate-students&#34;&gt;Undergraduate students&lt;/h3&gt;
+&lt;p&gt;Undergraduates become involved in our research through a variety of ways,
+ranging from volunteer opportunities, paid assistantships,
+as well as independent research experiences.
+We are actively fostering diversity within the lab,
+so I encourage all interested students to contact me (or the lab’s graduate students and postdocs).
+Volunteer and paid assistantship opportunities often involve working with myself or a graduate student supporting the research projects of the lab.
+Volunteers have often ended up becoming paid research assistants or have pursued their own independent research projects (particularly when they’ve joined the lab early in their undergraduate careers).
+Independent research experiences typically involve student-led projects for transcript credit (incl. transcript-visible “distinction in research”),
+fulfilling Honors requirements, or academic- and/or summer quarter research supported by scholarships or fellowships
+(e.g., URISC, SURE, etc.).
+Note that you don’t need to have a project in mind before joining the lab, but please do articulate why you&amp;rsquo;re interested in our lab when you contact us.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://novaklabosu.github.io/pics/NovakLab_2017.jpg&#34; alt=&#34;NovakLab2017&#34;&gt;
+&lt;img src=&#34;https://novaklabosu.github.io/pics/NovakLab_2014.jpg&#34; alt=&#34;NovakLab2014&#34;&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Streams</title>
+      <link>https://novaklabosu.github.io/project/streams/</link>
+      <pubDate>Thu, 01 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>https://novaklabosu.github.io/project/streams/</guid>
+      <description>&lt;p&gt;If you&amp;rsquo;re interested in reading more, please see this &lt;a href=&#34;https://novaklabosu.github.io/other/NovakLab_StreamEcologySummary_2019.pdf&#34;&gt;2019 lay summary&lt;/a&gt; of our stream ecology research.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Subtidal</title>
+      <link>https://novaklabosu.github.io/project/subtidal/</link>
+      <pubDate>Thu, 01 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>https://novaklabosu.github.io/project/subtidal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Theory</title>
+      <link>https://novaklabosu.github.io/project/theory/</link>
+      <pubDate>Thu, 01 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>https://novaklabosu.github.io/project/theory/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hidden layers of density dependence in consumer feeding rates</title>
+      <link>https://novaklabosu.github.io/publication/stouffer-2021-aa/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://novaklabosu.github.io/publication/stouffer-2021-aa/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Quantifying the effects of intraspecific variation on predator feeding rates through nonlinear averaging</title>
+      <link>https://novaklabosu.github.io/publication/coblentz-2021/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://novaklabosu.github.io/publication/coblentz-2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Systematic bias in studies of consumer functional responses</title>
+      <link>https://novaklabosu.github.io/publication/novak-2021-aa/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://novaklabosu.github.io/publication/novak-2021-aa/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Trematode parasites exceed aquatic insect biomass in Oregon stream food webs</title>
+      <link>https://novaklabosu.github.io/publication/preston-2021-aa/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://novaklabosu.github.io/publication/preston-2021-aa/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Temporal shifts in intraspecific and interspecific diet variation among 3 stream predators</title>
+      <link>https://novaklabosu.github.io/publication/falke-2020-aa/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://novaklabosu.github.io/publication/falke-2020-aa/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The influence of prey predictability on the foraging behavior and movement of intertidal predators</title>
+      <link>https://novaklabosu.github.io/publication/hennessey-2019-aa/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://novaklabosu.github.io/publication/hennessey-2019-aa/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Community Responses to Climate-Related Variability and Disease: The Critical Importance of Long-Term Research</title>
+      <link>https://novaklabosu.github.io/publication/menge-2019-aa/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://novaklabosu.github.io/publication/menge-2019-aa/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Food-web interaction strength distributions are conserved by greater variation between than within predator--prey pairs</title>
+      <link>https://novaklabosu.github.io/publication/preston-2019-ab/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://novaklabosu.github.io/publication/preston-2019-ab/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Integrating Coastal Oceanic and Benthic Ecological Approaches for Understanding Large-Scale Meta-Ecosystem Dynamics</title>
+      <link>https://novaklabosu.github.io/publication/menge-2019-ab/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://novaklabosu.github.io/publication/menge-2019-ab/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>PISCO: Advances Made Through the Formation of a Large-Scale, Long-Term Consortium for Integrated Understanding of Coastal Ecosystem Dynamics</title>
+      <link>https://novaklabosu.github.io/publication/menge-2019-ac/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://novaklabosu.github.io/publication/menge-2019-ac/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Planning for Change: Assessing the Potential Role of Marine Protected Areas and Fisheries Management Approaches for Resilience Management in a Changing Ocean</title>
+      <link>https://novaklabosu.github.io/publication/kroeker-2019-aa/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://novaklabosu.github.io/publication/kroeker-2019-aa/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>State-structured species interactions and their consequences across levels of biological organization</title>
+      <link>https://novaklabosu.github.io/publication/segui-2019-aa/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://novaklabosu.github.io/publication/segui-2019-aa/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The intrinsic predictability of ecological time series and its potential to guide forecasting</title>
+      <link>https://novaklabosu.github.io/publication/pennekamp-2019-uq/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://novaklabosu.github.io/publication/pennekamp-2019-uq/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Terms</title>
+      <link>https://novaklabosu.github.io/terms/</link>
+      <pubDate>Thu, 28 Jun 2018 00:00:00 +0100</pubDate>
+      <guid>https://novaklabosu.github.io/terms/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://oregonstate.edu/official-web-disclaimer&#34;&gt;https://oregonstate.edu/official-web-disclaimer&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Candidate causes, consequences, and estimation of individual diet specialization</title>
+      <link>https://novaklabosu.github.io/publication/coblentz-2018-aa/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://novaklabosu.github.io/publication/coblentz-2018-aa/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Exact probabilities for the indeterminacy of complex networks as perceived through press perturbations</title>
+      <link>https://novaklabosu.github.io/publication/koslicki-2018-zm/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://novaklabosu.github.io/publication/koslicki-2018-zm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>What drives interaction strengths in complex food webs? A test with feeding rates of a generalist stream predator</title>
+      <link>https://novaklabosu.github.io/publication/preston-2018-kt/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://novaklabosu.github.io/publication/preston-2018-kt/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bayesian characterization of uncertainty in species interaction strengths</title>
+      <link>https://novaklabosu.github.io/publication/wolf-2017-rq/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://novaklabosu.github.io/publication/wolf-2017-rq/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Contributions of parasites to energy flow through a stream food web</title>
+      <link>https://novaklabosu.github.io/publication/layden-2017/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://novaklabosu.github.io/publication/layden-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Experimental demonstration of a trophic cascade in the Galápagos rocky subtidal:  Effects of consumer identity and behavior</title>
+      <link>https://novaklabosu.github.io/publication/witman-2017-jm/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://novaklabosu.github.io/publication/witman-2017-jm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Long-Term Studies Contribute Disproportionately to Ecology and Policy</title>
+      <link>https://novaklabosu.github.io/publication/hughes-2017-uq/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://novaklabosu.github.io/publication/hughes-2017-uq/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Quantifying predator dependence in the functional response of generalist predators</title>
+      <link>https://novaklabosu.github.io/publication/novak-2017-mo/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://novaklabosu.github.io/publication/novak-2017-mo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Rapid and direct recoveries of predators and prey through synchronized ecosystem management</title>
+      <link>https://novaklabosu.github.io/publication/samhouri-2017-om/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://novaklabosu.github.io/publication/samhouri-2017-om/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The application of Bayesian hierarchical models to quantify individual diet specialization</title>
+      <link>https://novaklabosu.github.io/publication/coblentz-2017-gq/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://novaklabosu.github.io/publication/coblentz-2017-gq/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Using Survival Models to Estimate Invertebrate Prey Identification Times in a Generalist Stream Fish</title>
+      <link>https://novaklabosu.github.io/publication/preston-2017-bh/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://novaklabosu.github.io/publication/preston-2017-bh/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Characterizing species interactions to understand press perturbations: What is the community matrix?</title>
+      <link>https://novaklabosu.github.io/publication/novak-2016-og/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://novaklabosu.github.io/publication/novak-2016-og/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Competitive mechanisms underlying the displacement of native crayfish by non-native crayfish</title>
+      <link>https://novaklabosu.github.io/publication/saepharn-2017/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://novaklabosu.github.io/publication/saepharn-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Complexity increases predictability in allometrically constrained food webs</title>
+      <link>https://novaklabosu.github.io/publication/iles-2016-br/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://novaklabosu.github.io/publication/iles-2016-br/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ecosystem context and historical contingency in apex predator recoveries</title>
+      <link>https://novaklabosu.github.io/publication/stier-2016-yj/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://novaklabosu.github.io/publication/stier-2016-yj/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Effects of predator introductions on population and community dynamics</title>
+      <link>https://novaklabosu.github.io/publication/ingeman-2016-aa/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://novaklabosu.github.io/publication/ingeman-2016-aa/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Global patterns of kelp forest change over the past half-century</title>
+      <link>https://novaklabosu.github.io/publication/krumhansl-2016-sb/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://novaklabosu.github.io/publication/krumhansl-2016-sb/</guid>
+      <description>&lt;script type=&#39;text/javascript&#39; src=&#39;https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js&#39;&gt;&lt;/script&gt;
+&lt;div class=&#39;altmetric-embed&#39; data-badge-type=&#39;donut&#39; data-doi=&#34;10.1073/pnas.1606102113&#34;&gt;&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Sensitive barnacles - A case study for collaborative sustainable fishery development</title>
+      <link>https://novaklabosu.github.io/publication/bingham-2016/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://novaklabosu.github.io/publication/bingham-2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Using stable isotopes to quantify species interaction strengths</title>
+      <link>https://novaklabosu.github.io/publication/shepard-2016/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://novaklabosu.github.io/publication/shepard-2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Selection on stability across ecological scales</title>
+      <link>https://novaklabosu.github.io/publication/borrelli-2015-cy/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://novaklabosu.github.io/publication/borrelli-2015-cy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Timescales alter the inferred strength and temporal consistency of intraspecific diet specialization</title>
+      <link>https://novaklabosu.github.io/publication/novak-2015-ef/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://novaklabosu.github.io/publication/novak-2015-ef/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Where does the time go?: Mixing and the depth-dependent distribution of fossil ages</title>
+      <link>https://novaklabosu.github.io/publication/terry-2015-lb/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://novaklabosu.github.io/publication/terry-2015-lb/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An Online Database for Informing Ecological Network Models: http://kelpforest.ucsc.edu</title>
+      <link>https://novaklabosu.github.io/publication/beas-luna-2014-cv/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>https://novaklabosu.github.io/publication/beas-luna-2014-cv/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Complex networks in kelp forest ecosystems - Visualizing big data</title>
+      <link>https://novaklabosu.github.io/publication/moulvi-2014/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>https://novaklabosu.github.io/publication/moulvi-2014/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A multi-decade time series of kelp forest community structure at San Nicolas Island, California (USA)</title>
+      <link>https://novaklabosu.github.io/publication/kenner-2013-co/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://novaklabosu.github.io/publication/kenner-2013-co/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Trophic omnivory across a productivity gradient: intraguild predation theory and the structure and strength of species interactions</title>
+      <link>https://novaklabosu.github.io/publication/novak-2013-qg/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://novaklabosu.github.io/publication/novak-2013-qg/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Probabilistic patterns of interaction: the effects of link-strength variability on food web structure</title>
+      <link>https://novaklabosu.github.io/publication/yeakel-2012-vm/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>https://novaklabosu.github.io/publication/yeakel-2012-vm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Structure and mechanism of diet specialisation: testing models of individual variation in resource use with sea otters</title>
+      <link>https://novaklabosu.github.io/publication/tinker-2012-xd/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>https://novaklabosu.github.io/publication/tinker-2012-xd/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Using the functional response of a consumer to predict biotic resistance to invasive prey</title>
+      <link>https://novaklabosu.github.io/publication/twardochleb-2012-ii/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>https://novaklabosu.github.io/publication/twardochleb-2012-ii/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Generalized modeling of ecological population dynamics</title>
+      <link>https://novaklabosu.github.io/publication/yeakel-2011-uy/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>https://novaklabosu.github.io/publication/yeakel-2011-uy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Merging Resource Availability with Isotope Mixing Models: The Role of Neutral Interaction Assumptions</title>
+      <link>https://novaklabosu.github.io/publication/yeakel-2011-ib/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>https://novaklabosu.github.io/publication/yeakel-2011-ib/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Nestedness patterns and the dual nature of community reassembly in California streams: a multivariate permutation-based approach</title>
+      <link>https://novaklabosu.github.io/publication/novak-2011-ed/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>https://novaklabosu.github.io/publication/novak-2011-ed/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Predicting community responses to perturbations in the face of imperfect knowledge and network complexity</title>
+      <link>https://novaklabosu.github.io/publication/novak-2011-qh/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>https://novaklabosu.github.io/publication/novak-2011-qh/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Effect of Travel Loss on Evolutionarily Stable Distributions of Populations in Space</title>
+      <link>https://novaklabosu.github.io/publication/de-angelis-2011-vp/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>https://novaklabosu.github.io/publication/de-angelis-2011-vp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Why intraspecific trait variation matters in community ecology</title>
+      <link>https://novaklabosu.github.io/publication/bolnick-2011-zf/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>https://novaklabosu.github.io/publication/bolnick-2011-zf/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Estimating interaction strengths in nature: experimental support for an observational approach</title>
+      <link>https://novaklabosu.github.io/publication/novak-2010-ch/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
+      <guid>https://novaklabosu.github.io/publication/novak-2010-ch/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Using experimental indices to quantify the strength of species interactions</title>
+      <link>https://novaklabosu.github.io/publication/novak-2010-km/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
+      <guid>https://novaklabosu.github.io/publication/novak-2010-km/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Estimating nonlinear interaction strengths: an observation-based method for species-rich food webs</title>
+      <link>https://novaklabosu.github.io/publication/novak-2008-nw/</link>
+      <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
+      <guid>https://novaklabosu.github.io/publication/novak-2008-nw/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Trophic omnivory and the structure, strength, and nonlinear nature of species interactions across a productivity gradient</title>
+      <link>https://novaklabosu.github.io/publication/novak-2008-wo/</link>
+      <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
+      <guid>https://novaklabosu.github.io/publication/novak-2008-wo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Understanding and predicting ecological dynamics: are major surprises inevitable</title>
+      <link>https://novaklabosu.github.io/publication/doak-2008-kx/</link>
+      <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
+      <guid>https://novaklabosu.github.io/publication/doak-2008-kx/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Diurnal activity in a group of Gulf of Maine decapods</title>
+      <link>https://novaklabosu.github.io/publication/novak-2004-df/</link>
+      <pubDate>Thu, 01 Jan 2004 00:00:00 +0000</pubDate>
+      <guid>https://novaklabosu.github.io/publication/novak-2004-df/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Intraguild and extraguild predations: implications for the diel activity and distribution of four large decapod species</title>
+      <link>https://novaklabosu.github.io/publication/novak-2000-gd/</link>
+      <pubDate>Sat, 01 Jan 2000 00:00:00 +0000</pubDate>
+      <guid>https://novaklabosu.github.io/publication/novak-2000-gd/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://novaklabosu.github.io/admin/config.yml</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://novaklabosu.github.io/admin/config.yml</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Analytical Workflows (IB516)</title>
+      <link>https://novaklabosu.github.io/courses/analyticalworkflows/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://novaklabosu.github.io/courses/analyticalworkflows/</guid>
+      <description>&lt;p&gt;Have you proposed a modeling chapter for your dissertation but need support getting things up and running? Will you soon be sitting on a complete data set ready for your planned analyses but don&amp;rsquo;t know how or where to begin? Maybe you&amp;rsquo;re far along in a series of analyses and feel &amp;ldquo;lost in the trees.&amp;rdquo;&lt;/p&gt;
+&lt;p&gt;This course will help you with these challenges by practicing the development and implementation of efficient, reproducible workflows for your projects. Every project should (and can) be modular and fully automated, hence reproducible, portable and easily modified. Rerunning an analysis with a different set of parameters should (and can) be as simple as a few keystrokes. Regenerating all figures and tables for your manuscript after finding a typo in your code or dataset should (and can) be painless.&lt;/p&gt;
+&lt;p&gt;Efficient workflows start at project conception and end only if the project idea is itself a dead end. Thus, in this course, we&amp;rsquo;ll work to practice (1) refining and articulating project goals and benchmarks, (2) creating modular and automated analyses, and (3) using best practices in coding and project management. We&amp;rsquo;ll learn how to use &lt;em&gt;Git&lt;/em&gt;, &lt;em&gt;GitHub&lt;/em&gt;, &lt;em&gt;LaTeX&lt;/em&gt;, &lt;em&gt;Markdown&lt;/em&gt;, and high performance clusters (&lt;em&gt;HPCs&lt;/em&gt;). The instructors will mostly use &lt;em&gt;R&lt;/em&gt; within &lt;em&gt;RStudio&lt;/em&gt;, but users of other programming languages and text editors are welcome and encouraged. You will need either (1) a dataset and a visualization or analysis goal, or (2) a model or simulation (or sufficiently well-developed ideas for one). The use of other people&amp;rsquo;s data or published models is also encouraged, as needed.&lt;/p&gt;
+&lt;p&gt;All teaching materials for this course are available on &lt;a href=&#34;https://github.com/analyticalworkflows/TeachingMaterials&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;GitHub&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Ecology (BI370)</title>
+      <link>https://novaklabosu.github.io/courses/ecology/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://novaklabosu.github.io/courses/ecology/</guid>
+      <description>&lt;h5 id=&#34;course-description&#34;&gt;Course description&lt;/h5&gt;
+&lt;p&gt;This ecology course consists of an introduction to the scientific study of the processes that shape the distribution, structure and dynamics of species and their communities. Topics include the methods and approaches of ecological research, the interactions between species and their abiotic and biotic environments, the distribution of biodiversity across the globe, the processes regulating population growth, species extinctions and invasions and their implications for conservation and the maintenance of ecosystem services, and the varied and profound impacts of humans on ecological systems.&lt;/p&gt;
+&lt;h5 id=&#34;course-objectives&#34;&gt;Course objectives&lt;/h5&gt;
+&lt;p&gt;By the end of this course, you will be able to: (i) discuss how organisms interact with their biotic and abiotic environments, (ii) infer the processes that structure patterns of biodiversity from local to global scales, (iii) explain how ecological systems are dynamic in space and time based on knowledge of process, (iv) evaluate climate change and the future of biodiversity in the context of Earth’s past record of climate and life, (v) inform others of how anthropogenic activities are impacting the structure and functioning of natural systems, (vi) valuate alternative strategies for the conservation of biodiversity and ecosystem services, and (vii) describe the fundamental role of quantitative reasoning (statistics and modeling) in ecology.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Marine Ecology (BI351)</title>
+      <link>https://novaklabosu.github.io/courses/marineecology/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://novaklabosu.github.io/courses/marineecology/</guid>
+      <description>&lt;h5 id=&#34;course-description&#34;&gt;Course description&lt;/h5&gt;
+&lt;p&gt;This course consists of an introduction to the physical, chemical and biological aspects of life in the oceans, with an ecological emphasis. Topics include the methods of scientific inquiry, the interactions between organisms and their abiotic and biotic environments, the processes regulating populations and communities, local to global patterns of biodiversity, and the varied and profound impacts that we humans are having on all marine systems.&lt;/p&gt;
+&lt;h5 id=&#34;course-objectives&#34;&gt;Course objectives&lt;/h5&gt;
+&lt;p&gt;By the end of this course, you will be able to: (i) disentangle the processes that structure patterns of marine biodiversity from local to global scales, (ii) evaluate ongoing environmental changes facing marine systems and their implications for future biodiversity, (iii) inform others of how anthropogenic activities are impacting the structure and functioning of marine systems, (iv) evaluate strategies for the conservation of marine biodiversity, and (v) appreciate and describe the amazing diversity of lifeforms that inhabit marine environments.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Past courses</title>
+      <link>https://novaklabosu.github.io/courses/past/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://novaklabosu.github.io/courses/past/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;Quantitative Ecology (UCSC, w/ &lt;a href=&#34;https://scholar.google.com/citations?user=jID7d1sAAAAJ&amp;amp;amp;hl=en&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Tim Tinker&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;Long-term Ecology (&lt;em&gt;seminar&lt;/em&gt;, w/ &lt;a href=&#34;http://lubmengelab.oregonstate.edu&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Bruce Menge&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;What is Systems Biology? (&lt;em&gt;seminar&lt;/em&gt;, w/ &lt;a href=&#34;http://vegathurberlab.oregonstate.edu&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Becky Vega-Thurber&lt;/a&gt; and &lt;a href=&#34;http://people.oregonstate.edu/~weisv/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Virginia Weis&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;Eco-Evolutionary Dynamics (&lt;em&gt;seminar&lt;/em&gt;)&lt;/li&gt;
+&lt;li&gt;Analytical Workflows (&lt;em&gt;seminar&lt;/em&gt; w/ &lt;a href=&#34;https://ib.oregonstate.edu/faculty/benjamda/Benjamin-Dalziel&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Ben Dalziel&lt;/a&gt;)&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Theoretical Ecology (BI592)</title>
+      <link>https://novaklabosu.github.io/courses/theoreticalecology/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://novaklabosu.github.io/courses/theoreticalecology/</guid>
+      <description>&lt;p&gt;Undergraduate students who are interested in participating in this course should email me with a brief summary of their interests and goals for taking part.&lt;/p&gt;
+&lt;h5 id=&#34;course-description&#34;&gt;Course description&lt;/h5&gt;
+&lt;p&gt;This course entails a quantitative treatment of the central concepts and applications of theoretical ecology. Emphasis is on the mathematical analysis and modeling of single populations and multi-species interactions, and the integration of models with data. Topics include discrete- and continuous-time models of population growth, stochastic and deterministic processes of unstructured populations, the sustainability of harvested populations, numerical and analytical investigations of population and community invasibility and stability, and an introduction to model-fitting and comparison in an information-theoretic framework.&lt;/p&gt;
+&lt;h5 id=&#34;course-objectives&#34;&gt;Course objectives&lt;/h5&gt;
+&lt;p&gt;Our goals will be to (i) peel away at any apprehensions of mathematical equations you may have, (ii) enable you to independently interpret the classic and modern literature of theoretical ecology, and (iii) enable you to apply analytical and simulation-based approaches in evaluating ecological questions of your own interest and communicate these to an audience of your peers. You&amp;rsquo;ll complete the course with a working knowledge of &lt;em&gt;R&lt;/em&gt; and &lt;em&gt;Mathematica&lt;/em&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

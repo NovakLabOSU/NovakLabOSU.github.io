@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jon Moore | NovakLab</title>
+    <link>https://novaklabosu.github.io/authors/jon-moore/</link>
+      <atom:link href="https://novaklabosu.github.io/authors/jon-moore/index.xml" rel="self" type="application/rss+xml" />
+    <description>Jon Moore</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 NovakLab</copyright><lastBuildDate>Sun, 01 Jan 2012 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://novaklabosu.github.io/media/icon_hu0409958f157fc50d4e355b357a277bb5_195869_512x512_fill_lanczos_center_2.png</url>
+      <title>Jon Moore</title>
+      <link>https://novaklabosu.github.io/authors/jon-moore/</link>
+    </image>
+    
+    <item>
+      <title>Using the functional response of a consumer to predict biotic resistance to invasive prey</title>
+      <link>https://novaklabosu.github.io/publication/twardochleb-2012-ii/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>https://novaklabosu.github.io/publication/twardochleb-2012-ii/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Merging Resource Availability with Isotope Mixing Models: The Role of Neutral Interaction Assumptions</title>
+      <link>https://novaklabosu.github.io/publication/yeakel-2011-ib/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>https://novaklabosu.github.io/publication/yeakel-2011-ib/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Nestedness patterns and the dual nature of community reassembly in California streams: a multivariate permutation-based approach</title>
+      <link>https://novaklabosu.github.io/publication/novak-2011-ed/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>https://novaklabosu.github.io/publication/novak-2011-ed/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

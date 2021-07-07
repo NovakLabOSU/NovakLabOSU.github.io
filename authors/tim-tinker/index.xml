@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tim Tinker | NovakLab</title>
+    <link>https://novaklabosu.github.io/authors/tim-tinker/</link>
+      <atom:link href="https://novaklabosu.github.io/authors/tim-tinker/index.xml" rel="self" type="application/rss+xml" />
+    <description>Tim Tinker</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 NovakLab</copyright><lastBuildDate>Fri, 01 Jan 2016 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://novaklabosu.github.io/media/icon_hu0409958f157fc50d4e355b357a277bb5_195869_512x512_fill_lanczos_center_2.png</url>
+      <title>Tim Tinker</title>
+      <link>https://novaklabosu.github.io/authors/tim-tinker/</link>
+    </image>
+    
+    <item>
+      <title>Characterizing species interactions to understand press perturbations: What is the community matrix?</title>
+      <link>https://novaklabosu.github.io/publication/novak-2016-og/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://novaklabosu.github.io/publication/novak-2016-og/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Timescales alter the inferred strength and temporal consistency of intraspecific diet specialization</title>
+      <link>https://novaklabosu.github.io/publication/novak-2015-ef/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://novaklabosu.github.io/publication/novak-2015-ef/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An Online Database for Informing Ecological Network Models: http://kelpforest.ucsc.edu</title>
+      <link>https://novaklabosu.github.io/publication/beas-luna-2014-cv/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>https://novaklabosu.github.io/publication/beas-luna-2014-cv/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A multi-decade time series of kelp forest community structure at San Nicolas Island, California (USA)</title>
+      <link>https://novaklabosu.github.io/publication/kenner-2013-co/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://novaklabosu.github.io/publication/kenner-2013-co/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Structure and mechanism of diet specialisation: testing models of individual variation in resource use with sea otters</title>
+      <link>https://novaklabosu.github.io/publication/tinker-2012-xd/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>https://novaklabosu.github.io/publication/tinker-2012-xd/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Predicting community responses to perturbations in the face of imperfect knowledge and network complexity</title>
+      <link>https://novaklabosu.github.io/publication/novak-2011-qh/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>https://novaklabosu.github.io/publication/novak-2011-qh/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Understanding and predicting ecological dynamics: are major surprises inevitable</title>
+      <link>https://novaklabosu.github.io/publication/doak-2008-kx/</link>
+      <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
+      <guid>https://novaklabosu.github.io/publication/doak-2008-kx/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
