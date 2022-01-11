@@ -5,12 +5,20 @@
     <link>https://novaklabosu.github.io/authors/mark-novak/</link>
       <atom:link href="https://novaklabosu.github.io/authors/mark-novak/index.xml" rel="self" type="application/rss+xml" />
     <description>Mark Novak</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 NovakLab</copyright><lastBuildDate>Thu, 12 Aug 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2022 NovakLab</copyright><lastBuildDate>Wed, 05 Jan 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://novaklabosu.github.io/authors/mark-novak/avatar_hue3ee6f58ada80168fbace0627eb65c37_855115_270x270_fill_q75_lanczos_center.jpg</url>
       <title>Mark Novak</title>
       <link>https://novaklabosu.github.io/authors/mark-novak/</link>
     </image>
+    
+    <item>
+      <title>Kelp-forest dynamics controlled by substrate complexity</title>
+      <link>https://novaklabosu.github.io/publication/randell-2021-ab/</link>
+      <pubDate>Wed, 05 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://novaklabosu.github.io/publication/randell-2021-ab/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Collective behaviour can stabilize ecosystems</title>
@@ -25,6 +33,14 @@
       <link>https://novaklabosu.github.io/publication/novak-2021-ab/</link>
       <pubDate>Sun, 20 Jun 2021 00:00:00 +0000</pubDate>
       <guid>https://novaklabosu.github.io/publication/novak-2021-ab/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The effects of formalin fixation and fluid storage on stable isotopes in rodent hair</title>
+      <link>https://novaklabosu.github.io/publication/taylor-2021-aa/</link>
+      <pubDate>Sun, 20 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>https://novaklabosu.github.io/publication/taylor-2021-aa/</guid>
       <description></description>
     </item>
     

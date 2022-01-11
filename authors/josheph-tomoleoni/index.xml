@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Josheph Tomoleoni | NovakLab</title>
+    <link>https://novaklabosu.github.io/authors/josheph-tomoleoni/</link>
+      <atom:link href="https://novaklabosu.github.io/authors/josheph-tomoleoni/index.xml" rel="self" type="application/rss+xml" />
+    <description>Josheph Tomoleoni</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2022 NovakLab</copyright><lastBuildDate>Wed, 05 Jan 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://novaklabosu.github.io/media/icon_hu0409958f157fc50d4e355b357a277bb5_195869_512x512_fill_lanczos_center_3.png</url>
+      <title>Josheph Tomoleoni</title>
+      <link>https://novaklabosu.github.io/authors/josheph-tomoleoni/</link>
+    </image>
+    
+    <item>
+      <title>Kelp-forest dynamics controlled by substrate complexity</title>
+      <link>https://novaklabosu.github.io/publication/randell-2021-ab/</link>
+      <pubDate>Wed, 05 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://novaklabosu.github.io/publication/randell-2021-ab/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

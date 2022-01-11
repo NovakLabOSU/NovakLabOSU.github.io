@@ -5,18 +5,26 @@
     <link>https://novaklabosu.github.io/tag/time-series/</link>
       <atom:link href="https://novaklabosu.github.io/tag/time-series/index.xml" rel="self" type="application/rss+xml" />
     <description>Time-series</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 NovakLab</copyright><lastBuildDate>Tue, 21 Sep 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2022 NovakLab</copyright><lastBuildDate>Wed, 05 Jan 2022 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://novaklabosu.github.io/media/icon_hu0409958f157fc50d4e355b357a277bb5_195869_512x512_fill_lanczos_center_2.png</url>
+      <url>https://novaklabosu.github.io/media/icon_hu0409958f157fc50d4e355b357a277bb5_195869_512x512_fill_lanczos_center_3.png</url>
       <title>Time-series</title>
       <link>https://novaklabosu.github.io/tag/time-series/</link>
     </image>
     
     <item>
+      <title>Kelp-forest dynamics controlled by substrate complexity</title>
+      <link>https://novaklabosu.github.io/publication/randell-2021-ab/</link>
+      <pubDate>Wed, 05 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://novaklabosu.github.io/publication/randell-2021-ab/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Grazer-resource behavior, interactions, and feedbacks control kelp-forest dynamics and stability</title>
-      <link>https://novaklabosu.github.io/publication/randell-2021/</link>
+      <link>https://novaklabosu.github.io/publication/randell-2021-aa/</link>
       <pubDate>Tue, 21 Sep 2021 00:00:00 +0000</pubDate>
-      <guid>https://novaklabosu.github.io/publication/randell-2021/</guid>
+      <guid>https://novaklabosu.github.io/publication/randell-2021-aa/</guid>
       <description></description>
     </item>
     
