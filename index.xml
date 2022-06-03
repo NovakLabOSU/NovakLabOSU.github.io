@@ -13,7 +13,7 @@
     </image>
     
     <item>
-      <title>Effects of predator novelty on intraguild predation community with adaptive prey defense</title>
+      <title>Effects of predator novelty on intraguild predation communities with adaptive prey defense</title>
       <link>https://novaklabosu.github.io/publication/ingeman-2022-aa/</link>
       <pubDate>Fri, 11 Mar 2022 00:00:00 +0000</pubDate>
       <guid>https://novaklabosu.github.io/publication/ingeman-2022-aa/</guid>
@@ -92,7 +92,7 @@
       <description>&lt;p&gt;A key challenge for ecology is the development of Theory to guide our responses to ongoing environmental change.
 To more effectively inform conservation and resource-use policy we need to understand the processes by which species – and the interactions among them – affect the dynamics of their communities and the functioning of their ecosystems.
 While we have made tremendous advances in our understanding, there still exist large gaps between mathematical theory and our empirical knowledge of nature&amp;rsquo;s complex ecological systems.
-&lt;em&gt;How and when do species&#39; direct and indirect interactions affect the structure, dynamics, and functioning of their communities?&lt;/em&gt;
+&lt;em&gt;How and when do species&amp;rsquo; direct and indirect interactions affect the structure, dynamics, and functioning of their communities?&lt;/em&gt;
 &lt;em&gt;How well can we predict the response of ecological systems to acute and chronic perturbations, including when these amount to only subtle changes in the environment?&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;To date, our contributions to answering questions like these largely fall into two categories:&lt;/p&gt;
 &lt;ol&gt;
@@ -714,6 +714,17 @@ Note that you don’t need to have a project in mind before joining the lab, but
 &lt;p&gt;This course will help you with these challenges by practicing the development and implementation of efficient, reproducible workflows for your projects. Every project should (and can) be modular and fully automated, hence reproducible, portable and easily modified. Rerunning an analysis with a different set of parameters should (and can) be as simple as a few keystrokes. Regenerating all figures and tables for your manuscript after finding a typo in your code or dataset should (and can) be painless.&lt;/p&gt;
 &lt;p&gt;Efficient workflows start at project conception and end only if the project idea is itself a dead end. Thus, in this course, we&amp;rsquo;ll work to practice (1) refining and articulating project goals and benchmarks, (2) creating modular and automated analyses, and (3) using best practices in coding and project management. We&amp;rsquo;ll learn how to use &lt;em&gt;Git&lt;/em&gt;, &lt;em&gt;GitHub&lt;/em&gt;, &lt;em&gt;LaTeX&lt;/em&gt;, &lt;em&gt;Markdown&lt;/em&gt;, and high performance clusters (&lt;em&gt;HPCs&lt;/em&gt;). The instructors will mostly use &lt;em&gt;R&lt;/em&gt; within &lt;em&gt;RStudio&lt;/em&gt;, but users of other programming languages and text editors are welcome and encouraged. You will need either (1) a dataset and a visualization or analysis goal, or (2) a model or simulation (or sufficiently well-developed ideas for one). The use of other people&amp;rsquo;s data or published models is also encouraged, as needed.&lt;/p&gt;
 &lt;p&gt;All teaching materials for this course are available on &lt;a href=&#34;https://github.com/analyticalworkflows/TeachingMaterials&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;GitHub&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Data-Theory Integration</title>
+      <link>https://novaklabosu.github.io/courses/rmbl/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://novaklabosu.github.io/courses/rmbl/</guid>
+      <description>&lt;h5 id=&#34;course-description&#34;&gt;Course description&lt;/h5&gt;
+&lt;p&gt;A workshop-style short-course at the &lt;a href=&#34;https://www.rmbl.org&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Rocky Mountain Biological Laboratory&lt;/a&gt; aiming to introduce basic concepts and tools for the statistical integration of the mathematical models and empirical data for characterizing species interactions.&lt;/p&gt;
+&lt;p&gt;See &lt;a href=&#34;https://models4data2theory.github.io&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://models4data2theory.github.io&lt;/a&gt; for details.&lt;/p&gt;
 </description>
     </item>
     
