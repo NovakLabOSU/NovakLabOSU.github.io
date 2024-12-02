@@ -5,7 +5,7 @@
     <link>https://novaklabosu.github.io/</link>
       <atom:link href="https://novaklabosu.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>NovakLab</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2022 NovakLab</copyright><lastBuildDate>Wed, 31 Jul 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2022 NovakLab</copyright><lastBuildDate>Sun, 01 Dec 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://novaklabosu.github.io/media/icon_hu0409958f157fc50d4e355b357a277bb5_195869_512x512_fill_lanczos_center_3.png</url>
       <title>NovakLab</title>
@@ -13,18 +13,26 @@
     </image>
     
     <item>
+      <title>Feeding on multiple prey at a time: The frequency and population-dynamic effects of functional-response linearity</title>
+      <link>https://novaklabosu.github.io/publication/novak-2024-ab/</link>
+      <pubDate>Sun, 01 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>https://novaklabosu.github.io/publication/novak-2024-ab/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Simple, universal rules predict trophic interaction strengths</title>
       <link>https://novaklabosu.github.io/publication/coblentz-2024/</link>
-      <pubDate>Wed, 31 Jul 2024 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 30 Nov 2024 00:00:00 +0000</pubDate>
       <guid>https://novaklabosu.github.io/publication/coblentz-2024/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>In defense of the Type I functional response: The frequency and population-dynamic effects of feeding on multiple prey at a time</title>
-      <link>https://novaklabosu.github.io/publication/novak-2024-ab/</link>
-      <pubDate>Wed, 15 May 2024 00:00:00 +0000</pubDate>
-      <guid>https://novaklabosu.github.io/publication/novak-2024-ab/</guid>
+      <title>Age-prevalence curves in a multi-species parasite community</title>
+      <link>https://novaklabosu.github.io/publication/preston-2024-aa/</link>
+      <pubDate>Wed, 20 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>https://novaklabosu.github.io/publication/preston-2024-aa/</guid>
       <description></description>
     </item>
     
@@ -233,10 +241,35 @@ Note that you don’t need to have a project in mind before joining the lab, but
 
 
 
-&lt;figure  &gt;
+&lt;figure  id=&#34;figure-2024&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://novaklabosu.github.io/pics/NovakLab_2024.jpg&#34; alt=&#34;NovakLab2024&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      2024
+    &lt;/figcaption&gt;&lt;/figure&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-2017&#34;&gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://novaklabosu.github.io/pics/NovakLab_2017.jpg&#34; alt=&#34;NovakLab2017&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
-  &lt;/div&gt;&lt;/figure&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      2017
+    &lt;/figcaption&gt;&lt;/figure&gt;
 
 
 
@@ -254,10 +287,12 @@ Note that you don’t need to have a project in mind before joining the lab, but
 
 
 
-&lt;figure  &gt;
+&lt;figure  id=&#34;figure-2014&#34;&gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://novaklabosu.github.io/pics/NovakLab_2014.jpg&#34; alt=&#34;NovakLab2014&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
-  &lt;/div&gt;&lt;/figure&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://novaklabosu.github.io/pics/NovakLab_2014.jpg&#34; alt=&#34;NovakLab2024&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      2014
+    &lt;/figcaption&gt;&lt;/figure&gt;
 &lt;/p&gt;
 </description>
     </item>

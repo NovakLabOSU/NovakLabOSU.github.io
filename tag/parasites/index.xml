@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Parasites | NovakLab</title>
+    <link>https://novaklabosu.github.io/tag/parasites/</link>
+      <atom:link href="https://novaklabosu.github.io/tag/parasites/index.xml" rel="self" type="application/rss+xml" />
+    <description>Parasites</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2022 NovakLab</copyright><lastBuildDate>Wed, 20 Nov 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://novaklabosu.github.io/media/icon_hu0409958f157fc50d4e355b357a277bb5_195869_512x512_fill_lanczos_center_3.png</url>
+      <title>Parasites</title>
+      <link>https://novaklabosu.github.io/tag/parasites/</link>
+    </image>
+    
+    <item>
+      <title>Age-prevalence curves in a multi-species parasite community</title>
+      <link>https://novaklabosu.github.io/publication/preston-2024-aa/</link>
+      <pubDate>Wed, 20 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>https://novaklabosu.github.io/publication/preston-2024-aa/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Trematode parasites exceed aquatic insect biomass in Oregon stream food webs</title>
+      <link>https://novaklabosu.github.io/publication/preston-2021-aa/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://novaklabosu.github.io/publication/preston-2021-aa/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
