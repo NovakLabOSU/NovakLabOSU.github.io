@@ -5,12 +5,20 @@
     <link>https://novaklabosu.github.io/</link>
       <atom:link href="https://novaklabosu.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>NovakLab</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2022 NovakLab</copyright><lastBuildDate>Sat, 14 Jun 2025 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2022 NovakLab</copyright><lastBuildDate>Wed, 18 Jun 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://novaklabosu.github.io/media/icon_hu0409958f157fc50d4e355b357a277bb5_195869_512x512_fill_lanczos_center_3.png</url>
       <title>NovakLab</title>
       <link>https://novaklabosu.github.io/</link>
     </image>
+    
+    <item>
+      <title>Upper’s (1974) unsuccessful self-treatment of a case of “writer’s block”: Renewed attempt using chat-based large language models</title>
+      <link>https://novaklabosu.github.io/publication/novak-2025-ac/</link>
+      <pubDate>Wed, 18 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>https://novaklabosu.github.io/publication/novak-2025-ac/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>In defense of Type I functional responses: The frequency and population-dynamic effects of feeding on multiple prey at a time</title>
