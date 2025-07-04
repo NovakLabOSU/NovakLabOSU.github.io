@@ -5,12 +5,20 @@
     <link>https://novaklabosu.github.io/authors/rodrigo-alves/</link>
       <atom:link href="https://novaklabosu.github.io/authors/rodrigo-alves/index.xml" rel="self" type="application/rss+xml" />
     <description>Rodrigo Alves</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2022 NovakLab</copyright>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2022 NovakLab</copyright><lastBuildDate>Wed, 25 Jun 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://novaklabosu.github.io/authors/rodrigo-alves/avatar_hu1fdb4fc59a86a7f8cde02e2ed6f1b2e2_129692_270x270_fill_q75_lanczos_center.jpg</url>
       <title>Rodrigo Alves</title>
       <link>https://novaklabosu.github.io/authors/rodrigo-alves/</link>
     </image>
+    
+    <item>
+      <title>FracFeed: Global database of the fraction of feeding predators</title>
+      <link>https://novaklabosu.github.io/publication/novak-2025-ad/</link>
+      <pubDate>Wed, 25 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>https://novaklabosu.github.io/publication/novak-2025-ad/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>

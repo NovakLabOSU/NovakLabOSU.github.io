@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Grayden Nichols | NovakLab</title>
+    <link>https://novaklabosu.github.io/authors/grayden-nichols/</link>
+      <atom:link href="https://novaklabosu.github.io/authors/grayden-nichols/index.xml" rel="self" type="application/rss+xml" />
+    <description>Grayden Nichols</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2022 NovakLab</copyright><lastBuildDate>Wed, 25 Jun 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://novaklabosu.github.io/media/icon_hu0409958f157fc50d4e355b357a277bb5_195869_512x512_fill_lanczos_center_3.png</url>
+      <title>Grayden Nichols</title>
+      <link>https://novaklabosu.github.io/authors/grayden-nichols/</link>
+    </image>
+    
+    <item>
+      <title>FracFeed: Global database of the fraction of feeding predators</title>
+      <link>https://novaklabosu.github.io/publication/novak-2025-ad/</link>
+      <pubDate>Wed, 25 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>https://novaklabosu.github.io/publication/novak-2025-ad/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

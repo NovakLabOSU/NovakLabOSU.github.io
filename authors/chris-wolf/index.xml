@@ -5,12 +5,20 @@
     <link>https://novaklabosu.github.io/authors/chris-wolf/</link>
       <atom:link href="https://novaklabosu.github.io/authors/chris-wolf/index.xml" rel="self" type="application/rss+xml" />
     <description>Chris Wolf</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2022 NovakLab</copyright><lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2022 NovakLab</copyright><lastBuildDate>Wed, 25 Jun 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://novaklabosu.github.io/authors/chris-wolf/avatar_hu15fff5f7fdc647e764fbeeec61784edb_7974_270x270_fill_q75_lanczos_center.jpg</url>
       <title>Chris Wolf</title>
       <link>https://novaklabosu.github.io/authors/chris-wolf/</link>
     </image>
+    
+    <item>
+      <title>FracFeed: Global database of the fraction of feeding predators</title>
+      <link>https://novaklabosu.github.io/publication/novak-2025-ad/</link>
+      <pubDate>Wed, 25 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>https://novaklabosu.github.io/publication/novak-2025-ad/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Bayesian characterization of uncertainty in species interaction strengths</title>
