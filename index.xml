@@ -5,12 +5,20 @@
     <link>https://novaklabosu.github.io/</link>
       <atom:link href="https://novaklabosu.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>NovakLab</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2022 NovakLab</copyright><lastBuildDate>Tue, 01 Jul 2025 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2022 NovakLab</copyright><lastBuildDate>Tue, 11 Nov 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://novaklabosu.github.io/media/icon_hu0409958f157fc50d4e355b357a277bb5_195869_512x512_fill_lanczos_center_3.png</url>
       <title>NovakLab</title>
       <link>https://novaklabosu.github.io/</link>
     </image>
+    
+    <item>
+      <title>Sea urchin consumption of kelp controlled by the density of drift algae</title>
+      <link>https://novaklabosu.github.io/publication/randell-2025-aa/</link>
+      <pubDate>Tue, 11 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>https://novaklabosu.github.io/publication/randell-2025-aa/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Upper’s (1974) unsuccessful self-treatment of a case of “writer’s block”: Renewed attempt using chat-based large language models</title>
