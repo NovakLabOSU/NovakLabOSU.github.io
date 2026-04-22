@@ -5,12 +5,20 @@
     <link>https://novaklabosu.github.io/publication/</link>
       <atom:link href="https://novaklabosu.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2022 NovakLab</copyright><lastBuildDate>Wed, 18 Feb 2026 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2022 NovakLab</copyright><lastBuildDate>Wed, 22 Apr 2026 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://novaklabosu.github.io/media/icon_hu0409958f157fc50d4e355b357a277bb5_195869_512x512_fill_lanczos_center_3.png</url>
       <title>Publications</title>
       <link>https://novaklabosu.github.io/publication/</link>
     </image>
+    
+    <item>
+      <title>Models reveal potential synergies in management actions for bull kelp forest resilience and restoration</title>
+      <link>https://novaklabosu.github.io/publication/white-2026-aa/</link>
+      <pubDate>Wed, 22 Apr 2026 00:00:00 +0000</pubDate>
+      <guid>https://novaklabosu.github.io/publication/white-2026-aa/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Symbolic regression for empirically realistic population dynamic time series</title>
